@@ -1,0 +1,61 @@
+city,team1,team2,toss_winner,toss_decision,winner
+Mumbai,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings
+Mohali,Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab
+Kolkata,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders
+Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad
+Chennai,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings
+Jaipur,Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,field,Rajasthan Royals
+Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad
+Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore
+Mumbai,Mumbai Indians,Delhi Daredevils,Delhi Daredevils,field,Delhi Daredevils
+Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad
+Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals
+Mohali,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Kings XI Punjab
+Kolkata,Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,field,Kolkata Knight Riders
+Mumbai,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians
+Jaipur,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders
+Mohali,Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,bat,Kings XI Punjab
+Pune,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings
+Kolkata,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab
+Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore
+Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings
+Jaipur,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals
+Delhi,Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,field,Kings XI Punjab
+Mumbai,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad
+Bangalore,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings
+Hyderabad,Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,field,Sunrisers Hyderabad
+Delhi,Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Daredevils
+Pune,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians
+Jaipur,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad
+Bangalore,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders
+Pune,Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,field,Chennai Super Kings
+Bangalore,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore
+Delhi,Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,field,Delhi Daredevils
+Kolkata,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders
+Indore,Kings XI Punjab,Mumbai Indians,Mumbai Indians,field,Mumbai Indians
+Pune,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings
+Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad
+Mumbai,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians
+Indore,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,field,Kings XI Punjab
+Hyderabad,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad
+Jaipur,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,bat,Rajasthan Royals
+Kolkata,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians
+Delhi,Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,bat,Sunrisers Hyderabad
+Jaipur,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals
+Indore,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,field,Kolkata Knight Riders
+Delhi,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore
+Pune,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings
+Mumbai,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals
+Indore,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore
+Kolkata,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders
+Mumbai,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,field,Mumbai Indians
+Bangalore,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore
+Delhi,Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,field,Delhi Daredevils
+Jaipur,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals
+Hyderabad,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders
+Delhi,Delhi Daredevils,Mumbai Indians,Delhi Daredevils,bat,Delhi Daredevils
+Pune,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings
+Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings
+Kolkata,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders
+Kolkata,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad
+Mumbai,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings

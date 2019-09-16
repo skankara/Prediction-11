@@ -1,0 +1,697 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue
+1,2017,CR Brathwaite,2017-04-05,SRH,RCB,RCB,CSK,normal,0,SRH,35,0,Yuvraj Singh,"Rajiv Gandhi International Stadium, Uppal"
+2,2017,CR Brathwaite,2017-04-06,MI,Pune,Pune,CSK,normal,0,Pune,0,7,SPD Smith,Maharashtra Cricket Association Stadium
+3,2017,CR Brathwaite,2017-04-07,GL,KKR,KKR,CSK,normal,0,KKR,0,10,CA Lynn,Saurashtra Cricket Association Stadium
+4,2017,CR Brathwaite,2017-04-08,Pune,KXIP,KXIP,CSK,normal,0,KXIP,0,6,GJ Maxwell,Holkar Cricket Stadium
+5,2017,CR Brathwaite,2017-04-08,RCB,DD,RCB,CSK,normal,0,RCB,15,0,KM Jadhav,M Chinnaswamy Stadium
+6,2017,CR Brathwaite,2017-04-09,GL,SRH,SRH,CSK,normal,0,SRH,0,9,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal"
+7,2017,CR Brathwaite,2017-04-09,KKR,MI,MI,CSK,normal,0,MI,0,4,N Rana,Wankhede Stadium
+8,2017,CR Brathwaite,2017-04-10,RCB,KXIP,RCB,CSK,normal,0,KXIP,0,8,AR Patel,Holkar Cricket Stadium
+9,2017,CR Brathwaite,2017-04-11,DD,Pune,Pune,CSK,normal,0,DD,97,0,SV Samson,Maharashtra Cricket Association Stadium
+10,2017,CR Brathwaite,2017-04-12,SRH,MI,MI,CSK,normal,0,MI,0,4,JJ Bumrah,Wankhede Stadium
+11,2017,CR Brathwaite,2017-04-13,KXIP,KKR,KKR,CSK,normal,0,KKR,0,8,SP Narine,Eden Gardens
+12,2017,CR Brathwaite,2017-04-14,RCB,MI,MI,CSK,normal,0,MI,0,4,KA Pollard,M Chinnaswamy Stadium
+13,2017,CR Brathwaite,2017-04-14,Pune,GL,GL,CSK,normal,0,GL,0,7,AJ Tye,Saurashtra Cricket Association Stadium
+14,2017,CR Brathwaite,2017-04-15,KKR,SRH,SRH,CSK,normal,0,KKR,17,0,RV Uthappa,Eden Gardens
+15,2017,CR Brathwaite,2017-04-15,DD,KXIP,DD,CSK,normal,0,DD,51,0,CJ Anderson,Feroz Shah Kotla
+16,2017,CR Brathwaite,2017-04-16,GL,MI,MI,CSK,normal,0,MI,0,6,N Rana,Wankhede Stadium
+17,2017,CR Brathwaite,2017-04-16,Pune,RCB,RCB,CSK,normal,0,Pune,27,0,BA Stokes,M Chinnaswamy Stadium
+18,2017,CR Brathwaite,2017-04-17,DD,KKR,DD,CSK,normal,0,KKR,0,4,NM Coulter-Nile,Feroz Shah Kotla
+19,2017,CR Brathwaite,2017-04-17,SRH,KXIP,KXIP,CSK,normal,0,SRH,5,0,B Kumar,"Rajiv Gandhi International Stadium, Uppal"
+20,2017,CR Brathwaite,2017-04-18,RCB,GL,GL,CSK,normal,0,RCB,21,0,CH Gayle,Saurashtra Cricket Association Stadium
+21,2017,CR Brathwaite,2017-04-19,SRH,DD,SRH,CSK,normal,0,SRH,15,0,KS Williamson,"Rajiv Gandhi International Stadium, Uppal"
+22,2017,CR Brathwaite,2017-04-20,KXIP,MI,MI,CSK,normal,0,MI,0,8,JC Buttler,Holkar Cricket Stadium
+23,2017,CR Brathwaite,2017-04-21,KKR,GL,GL,CSK,normal,0,GL,0,4,SK Raina,Eden Gardens
+24,2017,CR Brathwaite,2017-04-22,MI,DD,DD,CSK,normal,0,MI,14,0,MJ McClenaghan,Wankhede Stadium
+25,2017,CR Brathwaite,2017-04-22,SRH,Pune,Pune,CSK,normal,0,Pune,0,6,MS Dhoni,Maharashtra Cricket Association Stadium
+26,2017,CR Brathwaite,2017-04-23,KXIP,GL,GL,CSK,normal,0,KXIP,26,0,HM Amla,Saurashtra Cricket Association Stadium
+27,2017,CR Brathwaite,2017-04-23,KKR,RCB,RCB,CSK,normal,0,KKR,82,0,NM Coulter-Nile,Eden Gardens
+28,2017,CR Brathwaite,2017-04-24,Pune,MI,MI,CSK,normal,0,Pune,3,0,BA Stokes,Wankhede Stadium
+29,2017,CR Brathwaite,2017-04-26,Pune,KKR,KKR,CSK,normal,0,KKR,0,7,RV Uthappa,Maharashtra Cricket Association Stadium
+30,2017,CR Brathwaite,2017-04-27,RCB,GL,GL,CSK,normal,0,GL,0,7,AJ Tye,M Chinnaswamy Stadium
+31,2017,CR Brathwaite,2017-04-28,DD,KKR,KKR,CSK,normal,0,KKR,0,7,G Gambhir,Eden Gardens
+32,2017,CR Brathwaite,2017-04-28,SRH,KXIP,KXIP,CSK,normal,0,SRH,26,0,Rashid Khan,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+33,2017,CR Brathwaite,2017-04-29,Pune,RCB,RCB,CSK,normal,0,Pune,61,0,LH Ferguson,Maharashtra Cricket Association Stadium
+34,2017,CR Brathwaite,2017-04-29,GL,MI,GL,CSK,tie,0,MI,0,0,KH Pandya,Saurashtra Cricket Association Stadium
+35,2017,CR Brathwaite,2017-04-30,DD,KXIP,KXIP,CSK,normal,0,KXIP,0,10,Sandeep Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+36,2017,CR Brathwaite,2017-04-30,SRH,KKR,KKR,CSK,normal,0,SRH,48,0,DA Warner,"Rajiv Gandhi International Stadium, Uppal"
+37,2017,CR Brathwaite,2017-05-01,RCB,MI,RCB,CSK,normal,0,MI,0,5,RG Sharma,Wankhede Stadium
+38,2017,CR Brathwaite,2017-05-01,GL,Pune,Pune,CSK,normal,0,Pune,0,5,BA Stokes,Maharashtra Cricket Association Stadium
+39,2017,CR Brathwaite,2017-05-02,SRH,DD,DD,CSK,normal,0,DD,0,6,Mohammed Shami,Feroz Shah Kotla
+40,2017,CR Brathwaite,2017-05-03,KKR,Pune,Pune,CSK,normal,0,Pune,0,4,RA Tripathi,Eden Gardens
+41,2017,CR Brathwaite,2017-05-04,GL,DD,DD,CSK,normal,0,DD,0,7,RR Pant,Feroz Shah Kotla
+42,2017,CR Brathwaite,2017-05-05,KXIP,RCB,RCB,CSK,normal,0,KXIP,19,0,Sandeep Sharma,M Chinnaswamy Stadium
+43,2017,CR Brathwaite,2017-05-06,Pune,SRH,SRH,CSK,normal,0,Pune,12,0,JD Unadkat,"Rajiv Gandhi International Stadium, Uppal"
+44,2017,CR Brathwaite,2017-05-06,MI,DD,DD,CSK,normal,0,MI,146,0,LMP Simmons,Feroz Shah Kotla
+45,2017,CR Brathwaite,2017-05-07,RCB,KKR,KKR,CSK,normal,0,KKR,0,6,SP Narine,M Chinnaswamy Stadium
+46,2017,CR Brathwaite,2017-05-07,KXIP,GL,GL,CSK,normal,0,GL,0,6,DR Smith,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+47,2017,CR Brathwaite,2017-05-08,MI,SRH,MI,CSK,normal,0,SRH,0,7,S Dhawan,"Rajiv Gandhi International Stadium, Uppal"
+48,2017,CR Brathwaite,2017-05-09,KXIP,KKR,KKR,CSK,normal,0,KXIP,14,0,MM Sharma,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+49,2017,CR Brathwaite,2017-05-10,GL,DD,DD,CSK,normal,0,DD,0,2,SS Iyer,Green Park
+50,2017,CR Brathwaite,2017-05-11,KXIP,MI,MI,CSK,normal,0,KXIP,7,0,WP Saha,Wankhede Stadium
+51,2017,CR Brathwaite,2017-05-12,DD,Pune,DD,CSK,normal,0,DD,7,0,KK Nair,Feroz Shah Kotla
+52,2017,CR Brathwaite,2017-05-13,GL,SRH,SRH,CSK,normal,0,SRH,0,8,Mohammed Siraj,Green Park
+53,2017,CR Brathwaite,2017-05-13,MI,KKR,KKR,CSK,normal,0,MI,9,0,AT Rayudu,Eden Gardens
+54,2017,CR Brathwaite,2017-05-14,KXIP,Pune,Pune,CSK,normal,0,Pune,0,9,JD Unadkat,Maharashtra Cricket Association Stadium
+55,2017,CR Brathwaite,2017-05-14,RCB,DD,RCB,CSK,normal,0,RCB,10,0,HV Patel,Feroz Shah Kotla
+56,2017,CR Brathwaite,2017-05-16,Pune,MI,MI,CSK,normal,0,Pune,20,0,Washington Sundar,Wankhede Stadium
+57,2017,CR Brathwaite,2017-05-17,SRH,KKR,KKR,CSK,normal,1,KKR,0,7,NM Coulter-Nile,M Chinnaswamy Stadium
+58,2017,CR Brathwaite,2017-05-19,KKR,MI,MI,CSK,normal,0,MI,0,6,KV Sharma,M Chinnaswamy Stadium
+59,2017,CR Brathwaite,2017-05-21,MI,Pune,MI,CSK,normal,0,MI,1,0,KH Pandya,"Rajiv Gandhi International Stadium, Uppal"
+60,2008,CR Brathwaite,2008-04-18,KKR,RCB,RCB,CSK,normal,0,KKR,140,0,BB McCullum,M Chinnaswamy Stadium
+61,2008,CR Brathwaite,2008-04-19,CSK,KXIP,CSK,CSK,normal,0,CSK,33,0,MEK Hussey,"Punjab Cricket Association Stadium, Mohali"
+62,2008,CR Brathwaite,2008-04-19,RR,DD,RR,CSK,normal,0,DD,0,9,MF Maharoof,Feroz Shah Kotla
+63,2008,CR Brathwaite,2008-04-20,MI,RCB,MI,CSK,normal,0,RCB,0,5,MV Boucher,Wankhede Stadium
+64,2008,CR Brathwaite,2008-04-20,SRH,KKR,SRH,CSK,normal,0,KKR,0,5,DJ Hussey,Eden Gardens
+65,2008,CR Brathwaite,2008-04-21,KXIP,RR,KXIP,CSK,normal,0,RR,0,6,SR Watson,Sawai Mansingh Stadium
+66,2008,CR Brathwaite,2008-04-22,SRH,DD,SRH,CSK,normal,0,DD,0,9,V Sehwag,"Rajiv Gandhi International Stadium, Uppal"
+67,2008,CR Brathwaite,2008-04-23,CSK,MI,MI,CSK,normal,0,CSK,6,0,ML Hayden,"MA Chidambaram Stadium, Chepauk"
+68,2008,CR Brathwaite,2008-04-24,SRH,RR,RR,CSK,normal,0,RR,0,3,YK Pathan,"Rajiv Gandhi International Stadium, Uppal"
+69,2008,CR Brathwaite,2008-04-25,KXIP,MI,MI,CSK,normal,0,KXIP,66,0,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali"
+70,2008,CR Brathwaite,2008-04-26,RCB,RR,RR,CSK,normal,0,RR,0,7,SR Watson,M Chinnaswamy Stadium
+71,2008,CR Brathwaite,2008-04-26,KKR,CSK,KKR,CSK,normal,0,CSK,0,9,JDP Oram,"MA Chidambaram Stadium, Chepauk"
+72,2008,CR Brathwaite,2008-04-27,MI,SRH,SRH,CSK,normal,0,SRH,0,10,AC Gilchrist,Dr DY Patil Sports Academy
+73,2008,CR Brathwaite,2008-04-27,DD,KXIP,DD,CSK,normal,0,KXIP,0,4,SM Katich,"Punjab Cricket Association Stadium, Mohali"
+74,2008,CR Brathwaite,2008-04-28,CSK,RCB,CSK,CSK,normal,0,CSK,13,0,MS Dhoni,M Chinnaswamy Stadium
+75,2008,CR Brathwaite,2008-04-29,KKR,MI,KKR,CSK,normal,0,MI,0,7,ST Jayasuriya,Eden Gardens
+76,2008,CR Brathwaite,2008-04-30,DD,RCB,RCB,CSK,normal,0,DD,10,0,GD McGrath,Feroz Shah Kotla
+77,2008,CR Brathwaite,2008-05-01,SRH,KXIP,KXIP,CSK,normal,0,KXIP,0,7,SE Marsh,"Rajiv Gandhi International Stadium, Uppal"
+78,2008,CR Brathwaite,2008-05-01,RR,KKR,RR,CSK,normal,0,RR,45,0,SA Asnodkar,Sawai Mansingh Stadium
+79,2008,CR Brathwaite,2008-05-02,CSK,DD,CSK,CSK,normal,0,DD,0,8,V Sehwag,"MA Chidambaram Stadium, Chepauk"
+80,2008,CR Brathwaite,2008-05-25,SRH,RCB,SRH,CSK,normal,0,RCB,0,5,R Vinay Kumar,"Rajiv Gandhi International Stadium, Uppal"
+81,2008,CR Brathwaite,2008-05-03,KXIP,KKR,KXIP,CSK,normal,0,KXIP,9,0,IK Pathan,"Punjab Cricket Association Stadium, Mohali"
+82,2008,CR Brathwaite,2008-05-04,MI,DD,DD,CSK,normal,0,MI,29,0,SM Pollock,Dr DY Patil Sports Academy
+83,2008,CR Brathwaite,2008-05-04,CSK,RR,CSK,CSK,normal,0,RR,0,8,Sohail Tanvir,Sawai Mansingh Stadium
+84,2008,CR Brathwaite,2008-05-05,RCB,KXIP,KXIP,CSK,normal,0,KXIP,0,6,S Sreesanth,M Chinnaswamy Stadium
+85,2008,CR Brathwaite,2008-05-06,CSK,SRH,SRH,CSK,normal,0,SRH,0,7,AC Gilchrist,"MA Chidambaram Stadium, Chepauk"
+86,2008,CR Brathwaite,2008-05-07,RR,MI,MI,CSK,normal,0,MI,0,7,A Nehra,Dr DY Patil Sports Academy
+87,2008,CR Brathwaite,2008-05-08,DD,CSK,CSK,CSK,normal,0,CSK,0,4,MS Dhoni,Feroz Shah Kotla
+88,2008,CR Brathwaite,2008-05-08,KKR,RCB,KKR,CSK,normal,0,KKR,5,0,SC Ganguly,Eden Gardens
+89,2008,CR Brathwaite,2008-05-09,SRH,RR,RR,CSK,normal,0,RR,0,8,YK Pathan,Sawai Mansingh Stadium
+90,2008,CR Brathwaite,2008-05-28,RCB,MI,MI,CSK,normal,0,MI,0,9,CRD Fernando,M Chinnaswamy Stadium
+91,2008,CR Brathwaite,2008-05-10,CSK,KXIP,KXIP,CSK,normal,0,CSK,18,0,L Balaji,"MA Chidambaram Stadium, Chepauk"
+92,2008,CR Brathwaite,2008-05-11,KKR,SRH,KKR,CSK,normal,0,KKR,23,0,SC Ganguly,"Rajiv Gandhi International Stadium, Uppal"
+93,2008,CR Brathwaite,2008-05-11,DD,RR,RR,CSK,normal,0,RR,0,3,SR Watson,Sawai Mansingh Stadium
+94,2008,CR Brathwaite,2008-05-12,RCB,KXIP,RCB,CSK,normal,0,KXIP,0,9,SE Marsh,"Punjab Cricket Association Stadium, Mohali"
+95,2008,CR Brathwaite,2008-05-13,KKR,DD,KKR,CSK,normal,0,KKR,23,0,Shoaib Akhtar,Eden Gardens
+96,2008,CR Brathwaite,2008-05-14,CSK,MI,MI,CSK,normal,0,MI,0,9,ST Jayasuriya,Wankhede Stadium
+97,2008,CR Brathwaite,2008-05-28,KXIP,RR,RR,CSK,normal,0,KXIP,41,0,SE Marsh,"Punjab Cricket Association Stadium, Mohali"
+98,2008,CR Brathwaite,2008-05-15,DD,SRH,SRH,CSK,normal,0,DD,12,0,A Mishra,Feroz Shah Kotla
+99,2008,CR Brathwaite,2008-05-16,KKR,MI,MI,CSK,normal,0,MI,0,8,SM Pollock,Wankhede Stadium
+100,2008,CR Brathwaite,2008-05-17,DD,KXIP,DD,CSK,normal,1,KXIP,6,0,DPMD Jayawardene,Feroz Shah Kotla
+101,2008,CR Brathwaite,2008-05-17,RR,RCB,RCB,CSK,normal,0,RR,65,0,GC Smith,Sawai Mansingh Stadium
+102,2008,CR Brathwaite,2008-05-18,MI,SRH,SRH,CSK,normal,0,MI,25,0,DJ Bravo,"Rajiv Gandhi International Stadium, Uppal"
+103,2008,CR Brathwaite,2008-05-18,KKR,CSK,KKR,CSK,normal,1,CSK,3,0,M Ntini,Eden Gardens
+104,2008,CR Brathwaite,2008-05-19,RCB,DD,DD,CSK,normal,0,DD,0,5,SP Goswami,M Chinnaswamy Stadium
+105,2008,CR Brathwaite,2008-05-20,KKR,RR,RR,CSK,normal,0,RR,0,6,YK Pathan,Eden Gardens
+106,2008,CR Brathwaite,2008-05-21,KXIP,MI,MI,CSK,normal,0,KXIP,1,0,SE Marsh,Wankhede Stadium
+107,2008,CR Brathwaite,2008-05-21,RCB,CSK,RCB,CSK,normal,0,RCB,14,0,A Kumble,"MA Chidambaram Stadium, Chepauk"
+108,2008,CR Brathwaite,2008-05-23,SRH,KXIP,KXIP,CSK,normal,0,KXIP,0,6,SE Marsh,"Punjab Cricket Association Stadium, Mohali"
+109,2008,CR Brathwaite,2008-05-24,MI,DD,DD,CSK,normal,0,DD,0,5,KD Karthik,Feroz Shah Kotla
+110,2008,CR Brathwaite,2008-05-24,RR,CSK,RR,CSK,normal,0,RR,10,0,JA Morkel,"MA Chidambaram Stadium, Chepauk"
+111,2008,CR Brathwaite,2008-05-03,RCB,SRH,SRH,CSK,normal,0,RCB,3,0,P Kumar,M Chinnaswamy Stadium
+112,2008,CR Brathwaite,2008-05-25,KXIP,KKR,KXIP,CSK,normal,0,KKR,0,3,Umar Gul,Eden Gardens
+113,2008,CR Brathwaite,2008-05-26,MI,RR,RR,CSK,normal,0,RR,0,5,Sohail Tanvir,Sawai Mansingh Stadium
+114,2008,CR Brathwaite,2008-05-27,SRH,CSK,SRH,CSK,normal,0,CSK,0,7,SK Raina,"Rajiv Gandhi International Stadium, Uppal"
+115,2008,CR Brathwaite,2008-05-30,RR,DD,DD,CSK,normal,0,RR,105,0,SR Watson,Wankhede Stadium
+116,2008,CR Brathwaite,2008-05-31,KXIP,CSK,KXIP,CSK,normal,0,CSK,0,9,M Ntini,Wankhede Stadium
+117,2008,CR Brathwaite,2008-06-01,CSK,RR,RR,CSK,normal,0,RR,0,3,YK Pathan,Dr DY Patil Sports Academy
+118,2009,CR Brathwaite,2009-04-18,MI,CSK,CSK,CSK,normal,0,MI,19,0,SR Tendulkar,Newlands
+119,2009,CR Brathwaite,2009-04-18,RCB,RR,RCB,CSK,normal,0,RCB,75,0,R Dravid,Newlands
+120,2009,CR Brathwaite,2009-04-19,KXIP,DD,DD,CSK,normal,1,DD,0,10,DL Vettori,Newlands
+121,2009,CR Brathwaite,2009-04-19,KKR,SRH,KKR,CSK,normal,0,SRH,0,8,RP Singh,Newlands
+122,2009,CR Brathwaite,2009-04-20,CSK,RCB,CSK,CSK,normal,0,CSK,92,0,M Muralitharan,St George's Park
+123,2009,CR Brathwaite,2009-04-21,KXIP,KKR,KKR,CSK,normal,1,KKR,11,0,CH Gayle,Kingsmead
+124,2009,CR Brathwaite,2009-04-22,SRH,RCB,SRH,CSK,normal,0,SRH,24,0,AC Gilchrist,Newlands
+125,2009,CR Brathwaite,2009-04-23,DD,CSK,DD,CSK,normal,0,DD,9,0,AB de Villiers,Kingsmead
+126,2009,CR Brathwaite,2009-04-23,RR,KKR,KKR,CSK,tie,0,RR,0,0,YK Pathan,Newlands
+127,2009,CR Brathwaite,2009-04-24,RCB,KXIP,RCB,CSK,normal,0,KXIP,0,7,RS Bopara,Kingsmead
+128,2009,CR Brathwaite,2009-04-25,SRH,MI,SRH,CSK,normal,0,SRH,12,0,PP Ojha,Kingsmead
+129,2009,CR Brathwaite,2009-04-26,RCB,DD,RCB,CSK,normal,0,DD,0,6,TM Dilshan,St George's Park
+130,2009,CR Brathwaite,2009-04-26,KXIP,RR,KXIP,CSK,normal,0,KXIP,27,0,KC Sangakkara,Newlands
+131,2009,CR Brathwaite,2009-04-27,CSK,SRH,SRH,CSK,normal,0,SRH,0,6,HH Gibbs,Kingsmead
+132,2009,CR Brathwaite,2009-04-27,MI,KKR,MI,CSK,normal,0,MI,92,0,SR Tendulkar,St George's Park
+133,2009,CR Brathwaite,2009-04-28,DD,RR,DD,CSK,normal,0,RR,0,5,YK Pathan,SuperSport Park
+134,2009,CR Brathwaite,2009-04-29,KKR,RCB,KKR,CSK,normal,0,RCB,0,5,MV Boucher,Kingsmead
+135,2009,CR Brathwaite,2009-04-29,KXIP,MI,KXIP,CSK,normal,0,KXIP,3,0,KC Sangakkara,Kingsmead
+136,2009,CR Brathwaite,2009-04-30,SRH,DD,DD,CSK,normal,0,DD,0,6,DP Nannes,SuperSport Park
+137,2009,CR Brathwaite,2009-04-30,CSK,RR,RR,CSK,normal,0,CSK,38,0,SK Raina,SuperSport Park
+138,2009,CR Brathwaite,2009-05-01,MI,KKR,MI,CSK,normal,0,MI,9,0,JP Duminy,Buffalo Park
+139,2009,CR Brathwaite,2009-05-01,RCB,KXIP,RCB,CSK,normal,0,RCB,8,0,Yuvraj Singh,Kingsmead
+140,2009,CR Brathwaite,2009-05-02,SRH,RR,SRH,CSK,normal,0,RR,0,3,YK Pathan,St George's Park
+141,2009,CR Brathwaite,2009-05-02,CSK,DD,DD,CSK,normal,0,CSK,18,0,SB Jakati,New Wanderers Stadium
+142,2009,CR Brathwaite,2009-05-03,KKR,KXIP,KKR,CSK,normal,0,KXIP,0,6,DPMD Jayawardene,St George's Park
+143,2009,CR Brathwaite,2009-05-03,MI,RCB,MI,CSK,normal,0,RCB,0,9,JH Kallis,New Wanderers Stadium
+144,2009,CR Brathwaite,2009-05-04,CSK,SRH,CSK,CSK,normal,0,CSK,78,0,MS Dhoni,Buffalo Park
+145,2009,CR Brathwaite,2009-05-05,RR,KXIP,KXIP,CSK,normal,0,RR,78,0,GC Smith,Kingsmead
+146,2009,CR Brathwaite,2009-05-05,KKR,DD,KKR,CSK,normal,0,DD,0,9,G Gambhir,Kingsmead
+147,2009,CR Brathwaite,2009-05-06,SRH,MI,SRH,CSK,normal,0,SRH,19,0,RG Sharma,SuperSport Park
+148,2009,CR Brathwaite,2009-05-07,RCB,RR,RR,CSK,normal,0,RR,0,7,A Singh,SuperSport Park
+149,2009,CR Brathwaite,2009-05-07,CSK,KXIP,CSK,CSK,normal,1,CSK,12,0,ML Hayden,SuperSport Park
+150,2009,CR Brathwaite,2009-05-08,MI,DD,MI,CSK,normal,0,DD,0,7,A Nehra,Buffalo Park
+151,2009,CR Brathwaite,2009-05-09,SRH,KXIP,KXIP,CSK,normal,0,KXIP,0,3,DPMD Jayawardene,De Beers Diamond Oval
+152,2009,CR Brathwaite,2009-05-09,RR,CSK,RR,CSK,normal,0,CSK,0,7,S Badrinath,De Beers Diamond Oval
+153,2009,CR Brathwaite,2009-05-10,MI,RCB,MI,CSK,normal,0,MI,16,0,JP Duminy,St George's Park
+154,2009,CR Brathwaite,2009-05-10,KKR,DD,DD,CSK,normal,0,DD,0,7,A Mishra,New Wanderers Stadium
+155,2009,CR Brathwaite,2009-05-11,SRH,RR,SRH,CSK,normal,0,SRH,53,0,DR Smith,De Beers Diamond Oval
+156,2009,CR Brathwaite,2009-05-12,KKR,RCB,RCB,CSK,normal,0,RCB,0,6,LRPL Taylor,SuperSport Park
+157,2009,CR Brathwaite,2009-05-12,KXIP,MI,KXIP,CSK,normal,0,MI,0,8,Harbhajan Singh,SuperSport Park
+158,2009,CR Brathwaite,2009-05-13,DD,SRH,SRH,CSK,normal,0,DD,12,0,R Bhatia,Kingsmead
+159,2009,CR Brathwaite,2009-05-14,CSK,RCB,CSK,CSK,normal,0,RCB,0,2,LRPL Taylor,Kingsmead
+160,2009,CR Brathwaite,2009-05-14,RR,MI,RR,CSK,normal,0,RR,2,0,SK Warne,Kingsmead
+161,2009,CR Brathwaite,2009-05-15,DD,KXIP,KXIP,CSK,normal,0,KXIP,0,6,B Lee,OUTsurance Oval
+162,2009,CR Brathwaite,2009-05-16,MI,CSK,MI,CSK,normal,0,CSK,0,7,ML Hayden,St George's Park
+163,2009,CR Brathwaite,2009-05-16,KKR,SRH,SRH,CSK,normal,0,SRH,0,6,RG Sharma,New Wanderers Stadium
+164,2009,CR Brathwaite,2009-05-17,KXIP,SRH,SRH,CSK,normal,0,KXIP,1,0,Yuvraj Singh,New Wanderers Stadium
+165,2009,CR Brathwaite,2009-05-17,DD,RR,DD,CSK,normal,0,DD,14,0,AB de Villiers,OUTsurance Oval
+166,2009,CR Brathwaite,2009-05-18,CSK,KKR,CSK,CSK,normal,0,KKR,0,7,BJ Hodge,SuperSport Park
+167,2009,CR Brathwaite,2009-05-19,DD,RCB,DD,CSK,normal,0,RCB,0,7,JH Kallis,New Wanderers Stadium
+168,2009,CR Brathwaite,2009-05-20,RR,KKR,KKR,CSK,normal,0,KKR,0,4,LR Shukla,Kingsmead
+169,2009,CR Brathwaite,2009-05-20,CSK,KXIP,CSK,CSK,normal,0,CSK,24,0,M Muralitharan,Kingsmead
+170,2009,CR Brathwaite,2009-05-21,MI,DD,DD,CSK,normal,0,DD,0,4,V Sehwag,SuperSport Park
+171,2009,CR Brathwaite,2009-05-21,RCB,SRH,RCB,CSK,normal,0,RCB,12,0,MK Pandey,SuperSport Park
+172,2009,CR Brathwaite,2009-05-22,DD,SRH,SRH,CSK,normal,0,SRH,0,6,AC Gilchrist,SuperSport Park
+173,2009,CR Brathwaite,2009-05-23,CSK,RCB,RCB,CSK,normal,0,RCB,0,6,MK Pandey,New Wanderers Stadium
+174,2009,CR Brathwaite,2009-05-24,SRH,RCB,RCB,CSK,normal,0,SRH,6,0,A Kumble,New Wanderers Stadium
+175,2010,CR Brathwaite,2010-03-12,KKR,SRH,SRH,CSK,normal,0,KKR,11,0,AD Mathews,Dr DY Patil Sports Academy
+176,2010,CR Brathwaite,2010-03-13,MI,RR,MI,CSK,normal,0,MI,4,0,YK Pathan,Brabourne Stadium
+177,2010,CR Brathwaite,2010-03-13,KXIP,DD,DD,CSK,normal,0,DD,0,5,G Gambhir,"Punjab Cricket Association Stadium, Mohali"
+178,2010,CR Brathwaite,2010-03-14,RCB,KKR,KKR,CSK,normal,0,KKR,0,7,MK Tiwary,Eden Gardens
+179,2010,CR Brathwaite,2010-03-14,SRH,CSK,SRH,CSK,normal,0,SRH,31,0,WPUJC Vaas,"MA Chidambaram Stadium, Chepauk"
+180,2010,CR Brathwaite,2010-03-15,RR,DD,DD,CSK,normal,0,DD,0,6,V Sehwag,"Sardar Patel Stadium, Motera"
+181,2010,CR Brathwaite,2010-03-16,KXIP,RCB,KXIP,CSK,normal,0,RCB,0,8,JH Kallis,M Chinnaswamy Stadium
+182,2010,CR Brathwaite,2010-03-16,CSK,KKR,CSK,CSK,normal,0,CSK,55,0,MS Dhoni,Eden Gardens
+183,2010,CR Brathwaite,2010-03-17,MI,DD,DD,CSK,normal,0,MI,98,0,SR Tendulkar,Feroz Shah Kotla
+184,2010,CR Brathwaite,2010-03-18,RR,RCB,RCB,CSK,normal,0,RCB,0,10,JH Kallis,M Chinnaswamy Stadium
+185,2010,CR Brathwaite,2010-03-19,DD,CSK,DD,CSK,normal,0,CSK,0,5,ML Hayden,Feroz Shah Kotla
+186,2010,CR Brathwaite,2010-03-19,SRH,KXIP,KXIP,CSK,normal,0,SRH,6,0,A Symonds,Barabati Stadium
+187,2010,CR Brathwaite,2010-03-20,RR,KKR,RR,CSK,normal,0,RR,34,0,AA Jhunjhunwala,"Sardar Patel Stadium, Motera"
+188,2010,CR Brathwaite,2010-03-20,MI,RCB,MI,CSK,normal,0,RCB,0,7,JH Kallis,Brabourne Stadium
+189,2010,CR Brathwaite,2010-03-21,SRH,DD,SRH,CSK,normal,0,SRH,10,0,A Symonds,Barabati Stadium
+190,2010,CR Brathwaite,2010-03-21,KXIP,CSK,CSK,CSK,tie,0,KXIP,0,0,J Theron,"MA Chidambaram Stadium, Chepauk"
+191,2010,CR Brathwaite,2010-03-22,KKR,MI,KKR,CSK,normal,0,MI,0,7,SR Tendulkar,Brabourne Stadium
+192,2010,CR Brathwaite,2010-03-23,RCB,CSK,CSK,CSK,normal,0,RCB,36,0,RV Uthappa,M Chinnaswamy Stadium
+193,2010,CR Brathwaite,2010-03-24,RR,KXIP,KXIP,CSK,normal,0,RR,31,0,AC Voges,"Punjab Cricket Association Stadium, Mohali"
+194,2010,CR Brathwaite,2010-03-25,CSK,MI,MI,CSK,normal,0,MI,0,5,SR Tendulkar,Brabourne Stadium
+195,2010,CR Brathwaite,2010-03-26,SRH,RR,SRH,CSK,normal,0,RR,0,8,YK Pathan,"Sardar Patel Stadium, Motera"
+196,2010,CR Brathwaite,2010-03-27,KKR,KXIP,KKR,CSK,normal,0,KKR,39,0,MK Tiwary,"Punjab Cricket Association Stadium, Mohali"
+197,2010,CR Brathwaite,2010-03-25,DD,RCB,RCB,CSK,normal,0,DD,17,0,KM Jadhav,M Chinnaswamy Stadium
+198,2010,CR Brathwaite,2010-03-28,RR,CSK,RR,CSK,normal,0,RR,17,0,NV Ojha,"Sardar Patel Stadium, Motera"
+199,2010,CR Brathwaite,2010-03-28,MI,SRH,SRH,CSK,normal,0,MI,41,0,Harbhajan Singh,Dr DY Patil Sports Academy
+200,2010,CR Brathwaite,2010-03-29,DD,KKR,DD,CSK,normal,0,DD,40,0,DA Warner,Feroz Shah Kotla
+201,2010,CR Brathwaite,2010-03-30,KXIP,MI,MI,CSK,normal,0,MI,0,4,SL Malinga,Brabourne Stadium
+202,2010,CR Brathwaite,2010-03-31,RCB,CSK,RCB,CSK,normal,0,CSK,0,5,M Vijay,"MA Chidambaram Stadium, Chepauk"
+203,2010,CR Brathwaite,2010-03-31,DD,RR,DD,CSK,normal,0,DD,67,0,KD Karthik,Feroz Shah Kotla
+204,2010,CR Brathwaite,2010-04-01,KKR,SRH,KKR,CSK,normal,0,KKR,24,0,SC Ganguly,Eden Gardens
+205,2010,CR Brathwaite,2010-04-02,KXIP,RCB,KXIP,CSK,normal,0,RCB,0,6,KP Pietersen,"Punjab Cricket Association Stadium, Mohali"
+206,2010,CR Brathwaite,2010-04-03,CSK,RR,CSK,CSK,normal,0,CSK,23,0,M Vijay,"MA Chidambaram Stadium, Chepauk"
+207,2010,CR Brathwaite,2010-04-03,MI,SRH,MI,CSK,normal,0,MI,63,0,AT Rayudu,Brabourne Stadium
+208,2010,CR Brathwaite,2010-04-04,KKR,KXIP,KKR,CSK,normal,0,KXIP,0,8,DPMD Jayawardene,Eden Gardens
+209,2010,CR Brathwaite,2010-04-04,DD,RCB,DD,CSK,normal,0,DD,37,0,PD Collingwood,Feroz Shah Kotla
+210,2010,CR Brathwaite,2010-04-05,RR,SRH,RR,CSK,normal,0,RR,2,0,SK Warne,"Vidarbha Cricket Association Stadium, Jamtha"
+211,2010,CR Brathwaite,2010-04-06,CSK,MI,CSK,CSK,normal,0,CSK,24,0,SK Raina,"MA Chidambaram Stadium, Chepauk"
+212,2010,CR Brathwaite,2010-04-07,KXIP,RR,KXIP,CSK,normal,0,RR,0,9,MJ Lumb,Sawai Mansingh Stadium
+213,2010,CR Brathwaite,2010-04-07,KKR,DD,KKR,CSK,normal,0,KKR,14,0,SC Ganguly,Eden Gardens
+214,2010,CR Brathwaite,2010-04-08,RCB,SRH,SRH,CSK,normal,0,SRH,0,7,TL Suman,M Chinnaswamy Stadium
+215,2010,CR Brathwaite,2010-04-09,MI,KXIP,MI,CSK,normal,0,KXIP,0,6,KC Sangakkara,"Punjab Cricket Association Stadium, Mohali"
+216,2010,CR Brathwaite,2010-04-10,CSK,SRH,CSK,CSK,normal,0,SRH,0,6,RJ Harris,"Vidarbha Cricket Association Stadium, Jamtha"
+217,2010,CR Brathwaite,2010-04-10,KKR,RCB,RCB,CSK,normal,0,RCB,0,7,R Vinay Kumar,M Chinnaswamy Stadium
+218,2010,CR Brathwaite,2010-04-11,DD,KXIP,DD,CSK,normal,0,KXIP,0,7,PP Chawla,Feroz Shah Kotla
+219,2010,CR Brathwaite,2010-04-11,MI,RR,RR,CSK,normal,0,MI,37,0,SR Tendulkar,Sawai Mansingh Stadium
+220,2010,CR Brathwaite,2010-04-12,SRH,RCB,RCB,CSK,normal,0,SRH,13,0,Harmeet Singh,"Vidarbha Cricket Association Stadium, Jamtha"
+221,2010,CR Brathwaite,2010-04-13,MI,DD,MI,CSK,normal,0,MI,39,0,KA Pollard,Brabourne Stadium
+222,2010,CR Brathwaite,2010-04-13,KKR,CSK,KKR,CSK,normal,0,CSK,0,9,R Ashwin,"MA Chidambaram Stadium, Chepauk"
+223,2010,CR Brathwaite,2010-04-14,RR,RCB,RR,CSK,normal,0,RCB,0,5,KP Pietersen,Sawai Mansingh Stadium
+224,2010,CR Brathwaite,2010-04-15,CSK,DD,CSK,CSK,normal,0,DD,0,6,G Gambhir,"MA Chidambaram Stadium, Chepauk"
+225,2010,CR Brathwaite,2010-04-16,KXIP,SRH,SRH,CSK,normal,0,SRH,0,5,RG Sharma,Himachal Pradesh Cricket Association Stadium
+226,2010,CR Brathwaite,2010-04-17,MI,RCB,RCB,CSK,normal,0,MI,57,0,R McLaren,M Chinnaswamy Stadium
+227,2010,CR Brathwaite,2010-04-17,RR,KKR,RR,CSK,normal,0,KKR,0,8,JD Unadkat,Eden Gardens
+228,2010,CR Brathwaite,2010-04-18,KXIP,CSK,CSK,CSK,normal,0,CSK,0,6,MS Dhoni,Himachal Pradesh Cricket Association Stadium
+229,2010,CR Brathwaite,2010-04-18,SRH,DD,SRH,CSK,normal,0,SRH,11,0,A Symonds,Feroz Shah Kotla
+230,2010,CR Brathwaite,2010-04-19,MI,KKR,MI,CSK,normal,0,KKR,0,9,M Kartik,Eden Gardens
+231,2010,CR Brathwaite,2010-04-21,MI,RCB,MI,CSK,normal,0,MI,35,0,KA Pollard,Dr DY Patil Sports Academy
+232,2010,CR Brathwaite,2010-04-22,CSK,SRH,CSK,CSK,normal,0,CSK,38,0,DE Bollinger,Dr DY Patil Sports Academy
+233,2010,CR Brathwaite,2010-04-24,SRH,RCB,SRH,CSK,normal,0,RCB,0,9,A Kumble,Dr DY Patil Sports Academy
+234,2010,CR Brathwaite,2010-04-25,CSK,MI,CSK,CSK,normal,0,CSK,22,0,SK Raina,Dr DY Patil Sports Academy
+235,2011,CR Brathwaite,2011-04-08,CSK,KKR,CSK,CSK,normal,0,CSK,2,0,S Anirudha,"MA Chidambaram Stadium, Chepauk"
+236,2011,CR Brathwaite,2011-04-09,SRH,RR,RR,CSK,normal,0,RR,0,8,SK Trivedi,"Rajiv Gandhi International Stadium, Uppal"
+237,2011,CR Brathwaite,2011-04-09,Kochi,RCB,Kochi,CSK,normal,0,RCB,0,6,AB de Villiers,Nehru Stadium
+238,2011,CR Brathwaite,2011-04-10,DD,MI,DD,CSK,normal,0,MI,0,8,SL Malinga,Feroz Shah Kotla
+239,2011,CR Brathwaite,2011-04-10,KXIP,Pune,KXIP,CSK,normal,0,Pune,0,7,SB Wagh,Dr DY Patil Sports Academy
+240,2011,CR Brathwaite,2011-04-11,KKR,SRH,KKR,CSK,normal,0,KKR,9,0,JH Kallis,Eden Gardens
+241,2011,CR Brathwaite,2011-04-12,DD,RR,DD,CSK,normal,0,RR,0,6,SK Warne,Sawai Mansingh Stadium
+242,2011,CR Brathwaite,2011-04-12,RCB,MI,MI,CSK,normal,0,MI,0,9,SR Tendulkar,M Chinnaswamy Stadium
+243,2011,CR Brathwaite,2011-04-13,CSK,KXIP,KXIP,CSK,normal,0,KXIP,0,6,PC Valthaty,"Punjab Cricket Association Stadium, Mohali"
+244,2011,CR Brathwaite,2011-04-13,Kochi,Pune,Kochi,CSK,normal,0,Pune,0,4,MD Mishra,Dr DY Patil Sports Academy
+245,2011,CR Brathwaite,2011-04-14,SRH,RCB,RCB,CSK,normal,0,SRH,33,0,DW Steyn,"Rajiv Gandhi International Stadium, Uppal"
+246,2011,CR Brathwaite,2011-04-15,RR,KKR,KKR,CSK,normal,0,KKR,0,9,G Gambhir,Sawai Mansingh Stadium
+247,2011,CR Brathwaite,2011-04-15,MI,Kochi,Kochi,CSK,normal,0,Kochi,0,8,BB McCullum,Wankhede Stadium
+248,2011,CR Brathwaite,2011-04-16,CSK,RCB,CSK,CSK,normal,0,CSK,21,0,MEK Hussey,"MA Chidambaram Stadium, Chepauk"
+249,2011,CR Brathwaite,2011-04-16,SRH,KXIP,KXIP,CSK,normal,0,KXIP,0,8,PC Valthaty,"Rajiv Gandhi International Stadium, Uppal"
+250,2011,CR Brathwaite,2011-04-17,Pune,DD,DD,CSK,normal,0,DD,0,3,Yuvraj Singh,Dr DY Patil Sports Academy
+251,2011,CR Brathwaite,2011-04-17,RR,KKR,KKR,CSK,normal,0,KKR,0,8,L Balaji,Eden Gardens
+252,2011,CR Brathwaite,2011-04-18,CSK,Kochi,Kochi,CSK,normal,1,Kochi,0,7,BB McCullum,Nehru Stadium
+253,2011,CR Brathwaite,2011-04-19,SRH,DD,SRH,CSK,normal,0,SRH,16,0,S Sohal,Feroz Shah Kotla
+254,2011,CR Brathwaite,2011-04-20,Pune,MI,Pune,CSK,normal,0,MI,0,7,MM Patel,Wankhede Stadium
+255,2011,CR Brathwaite,2011-04-20,Kochi,KKR,KKR,CSK,normal,0,Kochi,6,0,DPMD Jayawardene,Eden Gardens
+256,2011,CR Brathwaite,2011-04-21,KXIP,RR,RR,CSK,normal,0,KXIP,48,0,SE Marsh,"Punjab Cricket Association Stadium, Mohali"
+257,2011,CR Brathwaite,2011-04-22,MI,CSK,CSK,CSK,normal,0,MI,8,0,Harbhajan Singh,Wankhede Stadium
+258,2011,CR Brathwaite,2011-04-22,KKR,RCB,RCB,CSK,normal,0,RCB,0,9,CH Gayle,Eden Gardens
+259,2011,CR Brathwaite,2011-04-23,DD,KXIP,KXIP,CSK,normal,0,DD,29,0,DA Warner,Feroz Shah Kotla
+260,2011,CR Brathwaite,2011-04-24,MI,SRH,SRH,CSK,normal,0,MI,37,0,SL Malinga,"Rajiv Gandhi International Stadium, Uppal"
+261,2011,CR Brathwaite,2011-04-24,Kochi,RR,RR,CSK,normal,0,RR,0,8,SK Warne,Sawai Mansingh Stadium
+262,2011,CR Brathwaite,2011-04-25,CSK,Pune,Pune,CSK,normal,0,CSK,25,0,MEK Hussey,"MA Chidambaram Stadium, Chepauk"
+263,2011,CR Brathwaite,2011-04-26,DD,RCB,RCB,CSK,normal,0,RCB,0,3,V Kohli,Feroz Shah Kotla
+264,2011,CR Brathwaite,2011-04-27,Pune,CSK,Pune,CSK,normal,0,CSK,0,8,DE Bollinger,Dr DY Patil Sports Academy
+265,2011,CR Brathwaite,2011-04-27,SRH,Kochi,Kochi,CSK,normal,0,SRH,55,0,I Sharma,Nehru Stadium
+266,2011,CR Brathwaite,2011-04-28,KKR,DD,DD,CSK,normal,0,KKR,17,0,MK Tiwary,Feroz Shah Kotla
+267,2011,CR Brathwaite,2011-04-29,MI,RR,RR,CSK,normal,0,RR,0,7,J Botha,Sawai Mansingh Stadium
+268,2011,CR Brathwaite,2011-04-29,RCB,Pune,Pune,CSK,normal,0,RCB,26,0,V Kohli,M Chinnaswamy Stadium
+269,2011,CR Brathwaite,2011-04-30,DD,Kochi,DD,CSK,normal,0,DD,38,0,V Sehwag,Nehru Stadium
+270,2011,CR Brathwaite,2011-04-30,KXIP,KKR,KKR,CSK,normal,0,KKR,0,8,Iqbal Abdulla,Eden Gardens
+271,2011,CR Brathwaite,2011-05-01,Pune,RR,RR,CSK,normal,0,RR,0,6,LRPL Taylor,Sawai Mansingh Stadium
+272,2011,CR Brathwaite,2011-05-01,CSK,SRH,CSK,CSK,normal,0,CSK,19,0,JA Morkel,"MA Chidambaram Stadium, Chepauk"
+273,2011,CR Brathwaite,2011-05-02,MI,KXIP,KXIP,CSK,normal,0,MI,23,0,KA Pollard,Wankhede Stadium
+274,2011,CR Brathwaite,2011-05-02,DD,Kochi,Kochi,CSK,normal,0,Kochi,0,7,P Parameswaran,Feroz Shah Kotla
+275,2011,CR Brathwaite,2011-05-03,KKR,SRH,SRH,CSK,normal,0,KKR,20,0,YK Pathan,"Rajiv Gandhi International Stadium, Uppal"
+276,2011,CR Brathwaite,2011-05-04,RR,CSK,RR,CSK,normal,0,CSK,0,8,MEK Hussey,"MA Chidambaram Stadium, Chepauk"
+277,2011,CR Brathwaite,2011-05-04,MI,Pune,Pune,CSK,normal,0,MI,21,0,R Sharma,Dr DY Patil Sports Academy
+278,2011,CR Brathwaite,2011-05-05,Kochi,KKR,KKR,CSK,normal,0,Kochi,17,0,BJ Hodge,Nehru Stadium
+279,2011,CR Brathwaite,2011-05-05,SRH,DD,DD,CSK,normal,0,DD,0,4,V Sehwag,"Rajiv Gandhi International Stadium, Uppal"
+280,2011,CR Brathwaite,2011-05-06,RCB,KXIP,KXIP,CSK,normal,0,RCB,85,0,CH Gayle,M Chinnaswamy Stadium
+281,2011,CR Brathwaite,2011-05-07,CSK,KKR,CSK,CSK,normal,1,KKR,10,0,Iqbal Abdulla,Eden Gardens
+282,2011,CR Brathwaite,2011-05-07,MI,DD,DD,CSK,normal,0,MI,32,0,AT Rayudu,Wankhede Stadium
+283,2011,CR Brathwaite,2011-05-08,Kochi,RCB,Kochi,CSK,normal,0,RCB,0,9,CH Gayle,M Chinnaswamy Stadium
+284,2011,CR Brathwaite,2011-05-08,KXIP,Pune,KXIP,CSK,normal,0,Pune,0,5,R Sharma,"Punjab Cricket Association Stadium, Mohali"
+285,2011,CR Brathwaite,2011-05-09,CSK,RR,RR,CSK,normal,0,CSK,63,0,M Vijay,Sawai Mansingh Stadium
+286,2011,CR Brathwaite,2011-05-10,SRH,Pune,SRH,CSK,normal,0,Pune,0,6,MR Marsh,"Rajiv Gandhi International Stadium, Uppal"
+287,2011,CR Brathwaite,2011-05-10,KXIP,MI,MI,CSK,normal,0,KXIP,76,0,BA Bhatt,"Punjab Cricket Association Stadium, Mohali"
+288,2011,CR Brathwaite,2011-05-11,RR,RCB,RCB,CSK,normal,0,RCB,0,9,S Aravind,Sawai Mansingh Stadium
+289,2011,CR Brathwaite,2011-05-12,CSK,DD,CSK,CSK,normal,0,CSK,18,0,MS Dhoni,"MA Chidambaram Stadium, Chepauk"
+290,2011,CR Brathwaite,2011-05-13,Kochi,KXIP,KXIP,CSK,normal,0,KXIP,0,6,KD Karthik,Holkar Cricket Stadium
+291,2011,CR Brathwaite,2011-05-14,KKR,RCB,RCB,CSK,normal,1,RCB,0,4,CH Gayle,M Chinnaswamy Stadium
+292,2011,CR Brathwaite,2011-05-14,SRH,MI,SRH,CSK,normal,0,SRH,10,0,A Mishra,Wankhede Stadium
+293,2011,CR Brathwaite,2011-05-15,KXIP,DD,DD,CSK,normal,0,KXIP,29,0,PP Chawla,Himachal Pradesh Cricket Association Stadium
+294,2011,CR Brathwaite,2011-05-15,RR,Kochi,Kochi,CSK,normal,0,Kochi,0,8,BJ Hodge,Holkar Cricket Stadium
+295,2011,CR Brathwaite,2011-05-16,Pune,SRH,SRH,CSK,normal,0,SRH,0,6,A Mishra,Dr DY Patil Sports Academy
+296,2011,CR Brathwaite,2011-05-17,KXIP,RCB,KXIP,CSK,normal,0,KXIP,111,0,AC Gilchrist,Himachal Pradesh Cricket Association Stadium
+297,2011,CR Brathwaite,2011-05-18,CSK,Kochi,CSK,CSK,normal,0,CSK,11,0,WP Saha,"MA Chidambaram Stadium, Chepauk"
+298,2011,CR Brathwaite,2011-05-19,Pune,KKR,KKR,CSK,normal,0,KKR,0,7,YK Pathan,Dr DY Patil Sports Academy
+299,2011,CR Brathwaite,2011-05-20,MI,RR,MI,CSK,normal,0,RR,0,10,SR Watson,Wankhede Stadium
+300,2011,CR Brathwaite,2011-05-21,SRH,KXIP,KXIP,CSK,normal,0,SRH,82,0,S Dhawan,Himachal Pradesh Cricket Association Stadium
+301,2011,CR Brathwaite,2011-05-21,DD,Pune,DD,CSK,no result,0,SRH,0,0,,Feroz Shah Kotla
+302,2011,CR Brathwaite,2011-05-22,CSK,RCB,RCB,CSK,normal,0,RCB,0,8,CH Gayle,M Chinnaswamy Stadium
+303,2011,CR Brathwaite,2011-05-22,KKR,MI,MI,CSK,normal,0,MI,0,5,JEC Franklin,Eden Gardens
+304,2011,CR Brathwaite,2011-05-24,RCB,CSK,CSK,CSK,normal,0,CSK,0,6,SK Raina,Wankhede Stadium
+305,2011,CR Brathwaite,2011-05-25,KKR,MI,MI,CSK,normal,0,MI,0,4,MM Patel,Wankhede Stadium
+306,2011,CR Brathwaite,2011-05-27,RCB,MI,MI,CSK,normal,0,RCB,43,0,CH Gayle,"MA Chidambaram Stadium, Chepauk"
+307,2011,CR Brathwaite,2011-05-28,CSK,RCB,CSK,CSK,normal,0,CSK,58,0,M Vijay,"MA Chidambaram Stadium, Chepauk"
+308,2012,CR Brathwaite,2012-04-04,CSK,MI,MI,CSK,normal,0,MI,0,8,RE Levi,"MA Chidambaram Stadium, Chepauk"
+309,2012,CR Brathwaite,2012-04-05,KKR,DD,DD,CSK,normal,0,DD,0,8,IK Pathan,Eden Gardens
+310,2012,CR Brathwaite,2012-04-06,Pune,MI,MI,CSK,normal,0,Pune,28,0,SPD Smith,Wankhede Stadium
+311,2012,CR Brathwaite,2012-04-06,RR,KXIP,KXIP,CSK,normal,0,RR,31,0,AM Rahane,Sawai Mansingh Stadium
+312,2012,CR Brathwaite,2012-04-07,RCB,DD,DD,CSK,normal,0,RCB,20,0,AB de Villiers,M Chinnaswamy Stadium
+313,2012,CR Brathwaite,2012-04-07,CSK,SRH,SRH,CSK,normal,0,CSK,74,0,RA Jadeja,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+314,2012,CR Brathwaite,2012-04-08,RR,KKR,KKR,CSK,normal,0,RR,22,0,BJ Hodge,Sawai Mansingh Stadium
+315,2012,CR Brathwaite,2012-04-08,Pune,KXIP,Pune,CSK,normal,0,Pune,22,0,MN Samuels,Subrata Roy Sahara Stadium
+316,2012,CR Brathwaite,2012-04-09,SRH,MI,SRH,CSK,normal,0,MI,0,5,RG Sharma,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+317,2012,CR Brathwaite,2012-04-10,KKR,RCB,RCB,CSK,normal,0,KKR,42,0,L Balaji,M Chinnaswamy Stadium
+318,2012,CR Brathwaite,2012-04-10,CSK,DD,DD,CSK,normal,0,DD,0,8,M Morkel,Feroz Shah Kotla
+319,2012,CR Brathwaite,2012-04-11,MI,RR,RR,CSK,normal,0,MI,27,0,KA Pollard,Wankhede Stadium
+320,2012,CR Brathwaite,2012-04-12,RCB,CSK,RCB,CSK,normal,0,CSK,0,5,F du Plessis,"MA Chidambaram Stadium, Chepauk"
+321,2012,CR Brathwaite,2012-04-12,Pune,KXIP,KXIP,CSK,normal,0,KXIP,0,7,AD Mascarenhas,"Punjab Cricket Association Stadium, Mohali"
+322,2012,CR Brathwaite,2012-04-13,RR,KKR,RR,CSK,normal,0,KKR,0,5,Shakib Al Hasan,Eden Gardens
+323,2012,CR Brathwaite,2012-04-19,SRH,DD,SRH,CSK,normal,0,DD,0,5,KP Pietersen,Feroz Shah Kotla
+324,2012,CR Brathwaite,2012-04-14,CSK,Pune,CSK,CSK,normal,0,Pune,0,7,JD Ryder,Subrata Roy Sahara Stadium
+325,2012,CR Brathwaite,2012-04-15,KXIP,KKR,KKR,CSK,normal,0,KXIP,2,0,SP Narine,Eden Gardens
+326,2012,CR Brathwaite,2012-04-15,RR,RCB,RR,CSK,normal,0,RR,59,0,AM Rahane,M Chinnaswamy Stadium
+327,2012,CR Brathwaite,2012-04-16,MI,DD,DD,CSK,normal,0,DD,0,7,S Nadeem,Wankhede Stadium
+328,2012,CR Brathwaite,2012-04-17,SRH,RR,SRH,CSK,normal,0,RR,0,5,BJ Hodge,Sawai Mansingh Stadium
+329,2012,CR Brathwaite,2012-04-17,Pune,RCB,Pune,CSK,normal,0,RCB,0,6,CH Gayle,M Chinnaswamy Stadium
+330,2012,CR Brathwaite,2012-04-18,KXIP,KKR,KXIP,CSK,normal,0,KKR,0,8,G Gambhir,"Punjab Cricket Association Stadium, Mohali"
+331,2012,CR Brathwaite,2012-05-10,SRH,DD,SRH,CSK,normal,0,DD,0,9,DA Warner,"Rajiv Gandhi International Stadium, Uppal"
+332,2012,CR Brathwaite,2012-04-19,CSK,Pune,Pune,CSK,normal,0,CSK,13,0,KMDN Kulasekara,"MA Chidambaram Stadium, Chepauk"
+333,2012,CR Brathwaite,2012-04-20,KXIP,RCB,RCB,CSK,normal,0,RCB,0,5,CH Gayle,"Punjab Cricket Association Stadium, Mohali"
+334,2012,CR Brathwaite,2012-04-21,RR,CSK,RR,CSK,normal,0,CSK,0,7,F du Plessis,"MA Chidambaram Stadium, Chepauk"
+335,2012,CR Brathwaite,2012-04-21,Pune,DD,DD,CSK,normal,0,Pune,20,0,SC Ganguly,Feroz Shah Kotla
+336,2012,CR Brathwaite,2012-04-22,MI,KXIP,MI,CSK,normal,0,KXIP,0,6,SE Marsh,Wankhede Stadium
+337,2012,CR Brathwaite,2012-04-22,SRH,KKR,KKR,CSK,normal,0,KKR,0,5,B Lee,Barabati Stadium
+338,2012,CR Brathwaite,2012-04-23,RCB,RR,RR,CSK,normal,0,RCB,46,0,AB de Villiers,Sawai Mansingh Stadium
+339,2012,CR Brathwaite,2012-04-24,Pune,DD,Pune,CSK,normal,0,DD,0,8,V Sehwag,Subrata Roy Sahara Stadium
+340,2012,CR Brathwaite,2012-04-25,KXIP,MI,KXIP,CSK,normal,0,MI,0,4,AT Rayudu,"Punjab Cricket Association Stadium, Mohali"
+341,2012,CR Brathwaite,2012-04-26,SRH,Pune,SRH,CSK,normal,0,SRH,18,0,CL White,Subrata Roy Sahara Stadium
+342,2012,CR Brathwaite,2012-04-27,DD,MI,MI,CSK,normal,0,DD,37,0,V Sehwag,Feroz Shah Kotla
+343,2012,CR Brathwaite,2012-04-28,KXIP,CSK,KXIP,CSK,normal,0,KXIP,7,0,Mandeep Singh,"MA Chidambaram Stadium, Chepauk"
+344,2012,CR Brathwaite,2012-04-28,KKR,RCB,KKR,CSK,normal,0,KKR,47,0,G Gambhir,Eden Gardens
+345,2012,CR Brathwaite,2012-04-29,DD,RR,DD,CSK,normal,0,DD,1,0,V Sehwag,Feroz Shah Kotla
+346,2012,CR Brathwaite,2012-04-29,SRH,MI,MI,CSK,normal,0,MI,0,5,DW Steyn,Wankhede Stadium
+347,2012,CR Brathwaite,2012-04-30,CSK,KKR,CSK,CSK,normal,0,KKR,0,5,G Gambhir,"MA Chidambaram Stadium, Chepauk"
+348,2012,CR Brathwaite,2012-05-01,SRH,Pune,SRH,CSK,normal,0,SRH,13,0,KC Sangakkara,Barabati Stadium
+349,2012,CR Brathwaite,2012-05-01,RR,DD,RR,CSK,normal,0,DD,0,6,P Negi,Sawai Mansingh Stadium
+350,2012,CR Brathwaite,2012-05-02,RCB,KXIP,KXIP,CSK,normal,0,KXIP,0,4,Azhar Mahmood,M Chinnaswamy Stadium
+351,2012,CR Brathwaite,2012-05-03,MI,Pune,MI,CSK,normal,0,MI,1,0,SL Malinga,Subrata Roy Sahara Stadium
+352,2012,CR Brathwaite,2012-05-04,CSK,SRH,CSK,CSK,normal,0,CSK,10,0,SK Raina,"MA Chidambaram Stadium, Chepauk"
+353,2012,CR Brathwaite,2012-05-05,KKR,Pune,KKR,CSK,normal,0,KKR,7,0,SP Narine,Eden Gardens
+354,2012,CR Brathwaite,2012-05-05,RR,KXIP,RR,CSK,normal,0,RR,43,0,SR Watson,"Punjab Cricket Association Stadium, Mohali"
+355,2012,CR Brathwaite,2012-05-06,CSK,MI,MI,CSK,normal,0,MI,0,2,DR Smith,Wankhede Stadium
+356,2012,CR Brathwaite,2012-05-06,SRH,RCB,RCB,CSK,normal,0,RCB,0,5,AB de Villiers,M Chinnaswamy Stadium
+357,2012,CR Brathwaite,2012-05-07,DD,KKR,DD,CSK,normal,0,KKR,0,6,JH Kallis,Feroz Shah Kotla
+358,2012,CR Brathwaite,2012-05-08,Pune,RR,Pune,CSK,normal,0,RR,0,7,SR Watson,Subrata Roy Sahara Stadium
+359,2012,CR Brathwaite,2012-05-08,KXIP,SRH,SRH,CSK,normal,0,KXIP,25,0,Mandeep Singh,"Rajiv Gandhi International Stadium, Uppal"
+360,2012,CR Brathwaite,2012-05-09,MI,RCB,RCB,CSK,normal,0,RCB,0,9,CH Gayle,Wankhede Stadium
+361,2012,CR Brathwaite,2012-05-10,RR,CSK,CSK,CSK,normal,0,CSK,0,4,BW Hilfenhaus,Sawai Mansingh Stadium
+362,2012,CR Brathwaite,2012-05-11,RCB,Pune,Pune,CSK,normal,0,RCB,35,0,CH Gayle,Subrata Roy Sahara Stadium
+363,2012,CR Brathwaite,2012-05-12,MI,KKR,MI,CSK,normal,0,MI,27,0,RG Sharma,Eden Gardens
+364,2012,CR Brathwaite,2012-05-12,DD,CSK,CSK,CSK,normal,0,CSK,0,9,BW Hilfenhaus,"MA Chidambaram Stadium, Chepauk"
+365,2012,CR Brathwaite,2012-05-13,RR,Pune,RR,CSK,normal,0,RR,45,0,A Chandila,Sawai Mansingh Stadium
+366,2012,CR Brathwaite,2012-05-13,SRH,KXIP,SRH,CSK,normal,0,KXIP,0,4,DJ Hussey,"Punjab Cricket Association Stadium, Mohali"
+367,2012,CR Brathwaite,2012-05-14,RCB,MI,MI,CSK,normal,0,MI,0,5,AT Rayudu,M Chinnaswamy Stadium
+368,2012,CR Brathwaite,2012-05-14,KKR,CSK,CSK,CSK,normal,0,CSK,0,5,MEK Hussey,Eden Gardens
+369,2012,CR Brathwaite,2012-05-15,KXIP,DD,KXIP,CSK,normal,0,DD,0,5,UT Yadav,Feroz Shah Kotla
+370,2012,CR Brathwaite,2012-05-16,KKR,MI,MI,CSK,normal,0,KKR,32,0,SP Narine,Wankhede Stadium
+371,2012,CR Brathwaite,2012-05-17,CSK,KXIP,KXIP,CSK,normal,0,KXIP,0,6,AC Gilchrist,Himachal Pradesh Cricket Association Stadium
+372,2012,CR Brathwaite,2012-05-17,RCB,DD,DD,CSK,normal,0,RCB,21,0,CH Gayle,Feroz Shah Kotla
+373,2012,CR Brathwaite,2012-05-18,RR,SRH,RR,CSK,normal,0,SRH,0,5,DW Steyn,"Rajiv Gandhi International Stadium, Uppal"
+374,2012,CR Brathwaite,2012-05-19,KXIP,DD,DD,CSK,normal,0,DD,0,6,UT Yadav,Himachal Pradesh Cricket Association Stadium
+375,2012,CR Brathwaite,2012-05-19,KKR,Pune,KKR,CSK,normal,0,KKR,34,0,Shakib Al Hasan,Subrata Roy Sahara Stadium
+376,2012,CR Brathwaite,2012-05-20,SRH,RCB,RCB,CSK,normal,0,SRH,9,0,DW Steyn,"Rajiv Gandhi International Stadium, Uppal"
+377,2012,CR Brathwaite,2012-05-20,RR,MI,RR,CSK,normal,0,MI,0,10,DR Smith,Sawai Mansingh Stadium
+378,2012,CR Brathwaite,2012-05-22,KKR,DD,KKR,CSK,normal,0,KKR,18,0,YK Pathan,Subrata Roy Sahara Stadium
+379,2012,CR Brathwaite,2012-05-23,CSK,MI,MI,CSK,normal,0,CSK,38,0,MS Dhoni,M Chinnaswamy Stadium
+380,2012,CR Brathwaite,2012-05-25,CSK,DD,DD,CSK,normal,0,CSK,86,0,M Vijay,"MA Chidambaram Stadium, Chepauk"
+381,2012,CR Brathwaite,2012-05-27,CSK,KKR,CSK,CSK,normal,0,KKR,0,5,MS Bisla,"MA Chidambaram Stadium, Chepauk"
+382,2013,CR Brathwaite,2013-04-03,DD,KKR,KKR,CSK,normal,0,KKR,0,6,SP Narine,Eden Gardens
+383,2013,CR Brathwaite,2013-04-04,RCB,MI,MI,CSK,normal,0,RCB,2,0,CH Gayle,M Chinnaswamy Stadium
+384,2013,CR Brathwaite,2013-04-05,SRH,Pune,Pune,CSK,normal,0,SRH,22,0,A Mishra,"Rajiv Gandhi International Stadium, Uppal"
+385,2013,CR Brathwaite,2013-04-06,RR,DD,RR,CSK,normal,0,RR,5,0,R Dravid,Feroz Shah Kotla
+386,2013,CR Brathwaite,2013-04-06,MI,CSK,MI,CSK,normal,0,MI,9,0,KA Pollard,"MA Chidambaram Stadium, Chepauk"
+387,2013,CR Brathwaite,2013-04-07,Pune,KXIP,Pune,CSK,normal,0,KXIP,0,8,M Vohra,Subrata Roy Sahara Stadium
+388,2013,CR Brathwaite,2013-04-07,RCB,SRH,RCB,CSK,tie,0,SRH,0,0,GH Vihari,"Rajiv Gandhi International Stadium, Uppal"
+389,2013,CR Brathwaite,2013-04-08,RR,KKR,KKR,CSK,normal,0,RR,19,0,SK Trivedi,Sawai Mansingh Stadium
+390,2013,CR Brathwaite,2013-04-09,MI,DD,MI,CSK,normal,0,MI,44,0,KD Karthik,Wankhede Stadium
+391,2013,CR Brathwaite,2013-04-10,KXIP,CSK,CSK,CSK,normal,0,CSK,0,10,MEK Hussey,"Punjab Cricket Association Stadium, Mohali"
+392,2013,CR Brathwaite,2013-04-11,KKR,RCB,RCB,CSK,normal,0,RCB,0,8,CH Gayle,M Chinnaswamy Stadium
+393,2013,CR Brathwaite,2013-04-11,RR,Pune,RR,CSK,normal,0,Pune,0,7,AJ Finch,Subrata Roy Sahara Stadium
+394,2013,CR Brathwaite,2013-04-12,DD,SRH,DD,CSK,normal,0,SRH,0,3,A Mishra,Feroz Shah Kotla
+395,2013,CR Brathwaite,2013-04-13,MI,Pune,MI,CSK,normal,0,MI,41,0,RG Sharma,Wankhede Stadium
+396,2013,CR Brathwaite,2013-04-13,RCB,CSK,CSK,CSK,normal,0,CSK,0,4,RA Jadeja,"MA Chidambaram Stadium, Chepauk"
+397,2013,CR Brathwaite,2013-04-14,KKR,SRH,KKR,CSK,normal,0,KKR,48,0,G Gambhir,Eden Gardens
+398,2013,CR Brathwaite,2013-04-14,KXIP,RR,RR,CSK,normal,0,RR,0,6,JP Faulkner,Sawai Mansingh Stadium
+399,2013,CR Brathwaite,2013-04-15,Pune,CSK,Pune,CSK,normal,0,Pune,24,0,SPD Smith,"MA Chidambaram Stadium, Chepauk"
+400,2013,CR Brathwaite,2013-04-16,KXIP,KKR,KKR,CSK,normal,0,KXIP,4,0,MS Gony,"Punjab Cricket Association Stadium, Mohali"
+401,2013,CR Brathwaite,2013-04-16,DD,RCB,RCB,CSK,tie,0,RCB,0,0,V Kohli,M Chinnaswamy Stadium
+402,2013,CR Brathwaite,2013-04-17,SRH,Pune,Pune,CSK,normal,0,SRH,11,0,A Mishra,Subrata Roy Sahara Stadium
+403,2013,CR Brathwaite,2013-04-17,RR,MI,RR,CSK,normal,0,RR,87,0,AM Rahane,Sawai Mansingh Stadium
+404,2013,CR Brathwaite,2013-04-18,CSK,DD,CSK,CSK,normal,0,CSK,86,0,MEK Hussey,Feroz Shah Kotla
+405,2013,CR Brathwaite,2013-04-19,KXIP,SRH,KXIP,CSK,normal,0,SRH,0,5,GH Vihari,"Rajiv Gandhi International Stadium, Uppal"
+406,2013,CR Brathwaite,2013-04-20,KKR,CSK,KKR,CSK,normal,0,CSK,0,4,RA Jadeja,Eden Gardens
+407,2013,CR Brathwaite,2013-04-20,RR,RCB,RCB,CSK,normal,0,RCB,0,7,R Vinay Kumar,M Chinnaswamy Stadium
+408,2013,CR Brathwaite,2013-04-21,MI,DD,MI,CSK,normal,0,DD,0,9,V Sehwag,Feroz Shah Kotla
+409,2013,CR Brathwaite,2013-04-21,Pune,KXIP,KXIP,CSK,normal,0,KXIP,0,7,DA Miller,"Punjab Cricket Association Stadium, Mohali"
+410,2013,CR Brathwaite,2013-04-22,RR,CSK,RR,CSK,normal,0,CSK,0,5,MEK Hussey,"MA Chidambaram Stadium, Chepauk"
+411,2013,CR Brathwaite,2013-04-23,RCB,Pune,Pune,CSK,normal,0,RCB,130,0,CH Gayle,M Chinnaswamy Stadium
+412,2013,CR Brathwaite,2013-05-16,KXIP,DD,DD,CSK,normal,0,KXIP,7,0,DA Miller,Himachal Pradesh Cricket Association Stadium
+413,2013,CR Brathwaite,2013-04-24,KKR,MI,KKR,CSK,normal,0,MI,0,5,DR Smith,Eden Gardens
+414,2013,CR Brathwaite,2013-04-25,SRH,CSK,SRH,CSK,normal,0,CSK,0,5,MS Dhoni,"MA Chidambaram Stadium, Chepauk"
+415,2013,CR Brathwaite,2013-04-26,KXIP,KKR,KXIP,CSK,normal,0,KKR,0,6,JH Kallis,Eden Gardens
+416,2013,CR Brathwaite,2013-04-27,SRH,RR,SRH,CSK,normal,0,RR,0,8,JP Faulkner,Sawai Mansingh Stadium
+417,2013,CR Brathwaite,2013-04-27,MI,RCB,MI,CSK,normal,0,MI,58,0,DR Smith,Wankhede Stadium
+418,2013,CR Brathwaite,2013-04-28,CSK,KKR,KKR,CSK,normal,0,CSK,14,0,MEK Hussey,"MA Chidambaram Stadium, Chepauk"
+419,2013,CR Brathwaite,2013-04-28,DD,Pune,Pune,CSK,normal,0,DD,15,0,DA Warner,Shaheed Veer Narayan Singh International Stadium
+420,2013,CR Brathwaite,2013-04-29,RCB,RR,RR,CSK,normal,0,RR,0,4,SV Samson,Sawai Mansingh Stadium
+421,2013,CR Brathwaite,2013-04-29,MI,KXIP,MI,CSK,normal,0,MI,4,0,RG Sharma,Wankhede Stadium
+422,2013,CR Brathwaite,2013-04-30,CSK,Pune,CSK,CSK,normal,0,CSK,37,0,MS Dhoni,Subrata Roy Sahara Stadium
+423,2013,CR Brathwaite,2013-05-01,MI,SRH,MI,CSK,normal,0,SRH,0,7,I Sharma,"Rajiv Gandhi International Stadium, Uppal"
+424,2013,CR Brathwaite,2013-05-01,KKR,DD,KKR,CSK,normal,0,DD,0,7,DA Warner,Shaheed Veer Narayan Singh International Stadium
+425,2013,CR Brathwaite,2013-05-02,CSK,KXIP,CSK,CSK,normal,0,CSK,15,0,SK Raina,"MA Chidambaram Stadium, Chepauk"
+426,2013,CR Brathwaite,2013-05-02,RCB,Pune,RCB,CSK,normal,0,RCB,17,0,AB de Villiers,Subrata Roy Sahara Stadium
+427,2013,CR Brathwaite,2013-05-03,RR,KKR,RR,CSK,normal,0,KKR,0,8,YK Pathan,Eden Gardens
+428,2013,CR Brathwaite,2013-05-04,DD,SRH,DD,CSK,normal,0,SRH,0,6,DJG Sammy,"Rajiv Gandhi International Stadium, Uppal"
+429,2013,CR Brathwaite,2013-05-14,RCB,KXIP,KXIP,CSK,normal,0,KXIP,0,7,AC Gilchrist,M Chinnaswamy Stadium
+430,2013,CR Brathwaite,2013-05-05,MI,CSK,MI,CSK,normal,0,MI,60,0,MG Johnson,Wankhede Stadium
+431,2013,CR Brathwaite,2013-05-05,Pune,RR,Pune,CSK,normal,0,RR,0,5,AM Rahane,Sawai Mansingh Stadium
+432,2013,CR Brathwaite,2013-04-09,SRH,RCB,SRH,CSK,normal,0,RCB,0,7,V Kohli,M Chinnaswamy Stadium
+433,2013,CR Brathwaite,2013-05-07,DD,RR,DD,CSK,normal,0,RR,0,9,AM Rahane,Sawai Mansingh Stadium
+434,2013,CR Brathwaite,2013-05-07,MI,KKR,MI,CSK,normal,0,MI,65,0,SR Tendulkar,Wankhede Stadium
+435,2013,CR Brathwaite,2013-05-08,CSK,SRH,SRH,CSK,normal,0,CSK,77,0,SK Raina,"Rajiv Gandhi International Stadium, Uppal"
+436,2013,CR Brathwaite,2013-05-09,KXIP,RR,RR,CSK,normal,0,RR,0,8,KK Cooper,"Punjab Cricket Association Stadium, Mohali"
+437,2013,CR Brathwaite,2013-05-09,KKR,Pune,KKR,CSK,normal,0,KKR,46,0,G Gambhir,Subrata Roy Sahara Stadium
+438,2013,CR Brathwaite,2013-05-10,RCB,DD,DD,CSK,normal,0,RCB,4,0,JD Unadkat,Feroz Shah Kotla
+439,2013,CR Brathwaite,2013-05-11,Pune,MI,Pune,CSK,normal,0,MI,0,5,MG Johnson,Subrata Roy Sahara Stadium
+440,2013,CR Brathwaite,2013-05-11,SRH,KXIP,KXIP,CSK,normal,0,SRH,30,0,PA Patel,"Punjab Cricket Association Stadium, Mohali"
+441,2013,CR Brathwaite,2013-05-12,RCB,KKR,KKR,CSK,normal,0,KKR,0,5,JH Kallis,JSCA International Stadium Complex
+442,2013,CR Brathwaite,2013-05-12,CSK,RR,RR,CSK,normal,0,RR,0,5,SR Watson,Sawai Mansingh Stadium
+443,2013,CR Brathwaite,2013-04-23,DD,KXIP,KXIP,CSK,normal,0,KXIP,0,5,Harmeet Singh,Feroz Shah Kotla
+444,2013,CR Brathwaite,2013-05-13,SRH,MI,SRH,CSK,normal,0,MI,0,7,KA Pollard,Wankhede Stadium
+445,2013,CR Brathwaite,2013-05-15,Pune,KKR,KKR,CSK,normal,0,Pune,7,0,MK Pandey,JSCA International Stadium Complex
+446,2013,CR Brathwaite,2013-05-14,CSK,DD,CSK,CSK,normal,0,CSK,33,0,MS Dhoni,"MA Chidambaram Stadium, Chepauk"
+447,2013,CR Brathwaite,2013-05-15,MI,RR,RR,CSK,normal,0,MI,14,0,AP Tare,Wankhede Stadium
+448,2013,CR Brathwaite,2013-05-06,RCB,KXIP,KXIP,CSK,normal,0,KXIP,0,6,DA Miller,"Punjab Cricket Association Stadium, Mohali"
+449,2013,CR Brathwaite,2013-05-17,SRH,RR,SRH,CSK,normal,0,SRH,23,0,A Mishra,"Rajiv Gandhi International Stadium, Uppal"
+450,2013,CR Brathwaite,2013-05-18,KXIP,MI,MI,CSK,normal,0,KXIP,50,0,Azhar Mahmood,Himachal Pradesh Cricket Association Stadium
+451,2013,CR Brathwaite,2013-05-19,Pune,DD,Pune,CSK,normal,0,Pune,38,0,LJ Wright,Subrata Roy Sahara Stadium
+452,2013,CR Brathwaite,2013-05-18,RCB,CSK,CSK,CSK,normal,0,RCB,24,0,V Kohli,M Chinnaswamy Stadium
+453,2013,CR Brathwaite,2013-05-19,KKR,SRH,KKR,CSK,normal,0,SRH,0,5,PA Patel,"Rajiv Gandhi International Stadium, Uppal"
+454,2013,CR Brathwaite,2013-05-21,CSK,MI,CSK,CSK,normal,0,CSK,48,0,MEK Hussey,Feroz Shah Kotla
+455,2013,CR Brathwaite,2013-05-22,SRH,RR,SRH,CSK,normal,0,RR,0,4,BJ Hodge,Feroz Shah Kotla
+456,2013,CR Brathwaite,2013-05-24,RR,MI,RR,CSK,normal,0,MI,0,4,Harbhajan Singh,Eden Gardens
+457,2013,CR Brathwaite,2013-05-26,MI,CSK,MI,CSK,normal,0,MI,23,0,KA Pollard,Eden Gardens
+458,2014,CR Brathwaite,2014-04-16,KKR,MI,KKR,CSK,normal,0,KKR,41,0,JH Kallis,Sheikh Zayed Stadium
+459,2014,CR Brathwaite,2014-04-17,DD,RCB,RCB,CSK,normal,0,RCB,0,8,YS Chahal,Sharjah Cricket Stadium
+460,2014,CR Brathwaite,2014-04-18,CSK,KXIP,CSK,CSK,normal,0,KXIP,0,6,GJ Maxwell,Sheikh Zayed Stadium
+461,2014,CR Brathwaite,2014-04-18,SRH,RR,RR,CSK,normal,0,RR,0,4,AM Rahane,Sheikh Zayed Stadium
+462,2014,CR Brathwaite,2014-04-19,MI,RCB,RCB,CSK,normal,0,RCB,0,7,PA Patel,Dubai International Cricket Stadium
+463,2014,CR Brathwaite,2014-04-19,KKR,DD,KKR,CSK,normal,0,DD,0,4,JP Duminy,Dubai International Cricket Stadium
+464,2014,CR Brathwaite,2014-04-20,RR,KXIP,KXIP,CSK,normal,0,KXIP,0,7,GJ Maxwell,Sharjah Cricket Stadium
+465,2014,CR Brathwaite,2014-04-21,CSK,DD,CSK,CSK,normal,0,CSK,93,0,SK Raina,Sheikh Zayed Stadium
+466,2014,CR Brathwaite,2014-04-22,KXIP,SRH,SRH,CSK,normal,0,KXIP,72,0,GJ Maxwell,Sharjah Cricket Stadium
+467,2014,CR Brathwaite,2014-04-23,CSK,RR,RR,CSK,normal,0,CSK,7,0,RA Jadeja,Dubai International Cricket Stadium
+468,2014,CR Brathwaite,2014-04-24,KKR,RCB,RCB,CSK,normal,0,KKR,2,0,CA Lynn,Sharjah Cricket Stadium
+469,2014,CR Brathwaite,2014-04-25,SRH,DD,SRH,CSK,normal,0,SRH,4,0,AJ Finch,Dubai International Cricket Stadium
+470,2014,CR Brathwaite,2014-04-25,MI,CSK,MI,CSK,normal,0,CSK,0,7,MM Sharma,Dubai International Cricket Stadium
+471,2014,CR Brathwaite,2014-04-26,RCB,RR,RR,CSK,normal,0,RR,0,6,PV Tambe,Sheikh Zayed Stadium
+472,2014,CR Brathwaite,2014-04-26,KXIP,KKR,KKR,CSK,normal,0,KXIP,23,0,Sandeep Sharma,Sheikh Zayed Stadium
+473,2014,CR Brathwaite,2014-04-27,MI,DD,MI,CSK,normal,0,DD,0,6,M Vijay,Sharjah Cricket Stadium
+474,2014,CR Brathwaite,2014-04-27,SRH,CSK,SRH,CSK,normal,0,CSK,0,5,DR Smith,Sharjah Cricket Stadium
+475,2014,CR Brathwaite,2014-04-28,RCB,KXIP,KXIP,CSK,normal,0,KXIP,0,5,Sandeep Sharma,Dubai International Cricket Stadium
+476,2014,CR Brathwaite,2014-04-29,RR,KKR,RR,CSK,tie,0,RR,0,0,JP Faulkner,Sheikh Zayed Stadium
+477,2014,CR Brathwaite,2014-04-30,SRH,MI,MI,CSK,normal,0,SRH,15,0,B Kumar,Dubai International Cricket Stadium
+478,2014,CR Brathwaite,2014-05-02,CSK,KKR,CSK,CSK,normal,0,CSK,34,0,RA Jadeja,JSCA International Stadium Complex
+479,2014,CR Brathwaite,2014-05-03,KXIP,MI,KXIP,CSK,normal,0,MI,0,5,CJ Anderson,Wankhede Stadium
+480,2014,CR Brathwaite,2014-05-03,DD,RR,RR,CSK,normal,0,RR,0,7,KK Nair,Feroz Shah Kotla
+481,2014,CR Brathwaite,2014-05-04,SRH,RCB,RCB,CSK,normal,0,RCB,0,4,AB de Villiers,M Chinnaswamy Stadium
+482,2014,CR Brathwaite,2014-05-05,RR,KKR,KKR,CSK,normal,0,RR,10,0,PV Tambe,"Sardar Patel Stadium, Motera"
+483,2014,CR Brathwaite,2014-05-05,DD,CSK,CSK,CSK,normal,0,CSK,0,8,DR Smith,Feroz Shah Kotla
+484,2014,CR Brathwaite,2014-05-06,MI,RCB,RCB,CSK,normal,0,MI,19,0,RG Sharma,Wankhede Stadium
+485,2014,CR Brathwaite,2014-05-07,DD,KKR,DD,CSK,normal,0,KKR,0,8,G Gambhir,Feroz Shah Kotla
+486,2014,CR Brathwaite,2014-05-07,KXIP,CSK,CSK,CSK,normal,0,KXIP,44,0,GJ Maxwell,Barabati Stadium
+487,2014,CR Brathwaite,2014-05-08,SRH,RR,RR,CSK,normal,0,SRH,32,0,B Kumar,"Sardar Patel Stadium, Motera"
+488,2014,CR Brathwaite,2014-05-09,KXIP,RCB,RCB,CSK,normal,0,KXIP,32,0,Sandeep Sharma,M Chinnaswamy Stadium
+489,2014,CR Brathwaite,2014-05-10,DD,SRH,SRH,CSK,normal,1,SRH,0,8,DW Steyn,Feroz Shah Kotla
+490,2014,CR Brathwaite,2014-05-10,MI,CSK,CSK,CSK,normal,0,CSK,0,4,DR Smith,Wankhede Stadium
+491,2014,CR Brathwaite,2014-05-11,KXIP,KKR,KKR,CSK,normal,0,KKR,0,9,G Gambhir,Barabati Stadium
+492,2014,CR Brathwaite,2014-05-11,RCB,RR,RCB,CSK,normal,0,RR,0,5,JP Faulkner,M Chinnaswamy Stadium
+493,2014,CR Brathwaite,2014-05-12,SRH,MI,SRH,CSK,normal,0,MI,0,7,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal"
+494,2014,CR Brathwaite,2014-05-13,RR,CSK,RR,CSK,normal,0,CSK,0,5,RA Jadeja,JSCA International Stadium Complex
+495,2014,CR Brathwaite,2014-05-13,RCB,DD,DD,CSK,normal,0,RCB,16,0,Yuvraj Singh,M Chinnaswamy Stadium
+496,2014,CR Brathwaite,2014-05-14,SRH,KXIP,KXIP,CSK,normal,0,KXIP,0,6,WP Saha,"Rajiv Gandhi International Stadium, Uppal"
+497,2014,CR Brathwaite,2014-05-14,MI,KKR,KKR,CSK,normal,0,KKR,0,6,RV Uthappa,Barabati Stadium
+498,2014,CR Brathwaite,2014-05-15,RR,DD,DD,CSK,normal,0,RR,62,0,AM Rahane,"Sardar Patel Stadium, Motera"
+499,2014,CR Brathwaite,2014-05-18,CSK,RCB,CSK,CSK,normal,0,RCB,0,5,AB de Villiers,JSCA International Stadium Complex
+500,2014,CR Brathwaite,2014-05-18,SRH,KKR,SRH,CSK,normal,0,KKR,0,7,UT Yadav,"Rajiv Gandhi International Stadium, Uppal"
+501,2014,CR Brathwaite,2014-05-19,MI,RR,MI,CSK,normal,0,MI,25,0,MEK Hussey,"Sardar Patel Stadium, Motera"
+502,2014,CR Brathwaite,2014-05-19,DD,KXIP,KXIP,CSK,normal,0,KXIP,0,4,AR Patel,Feroz Shah Kotla
+503,2014,CR Brathwaite,2014-05-20,RCB,SRH,RCB,CSK,normal,0,SRH,0,7,DA Warner,"Rajiv Gandhi International Stadium, Uppal"
+504,2014,CR Brathwaite,2014-05-20,CSK,KKR,KKR,CSK,normal,0,KKR,0,8,RV Uthappa,Eden Gardens
+505,2014,CR Brathwaite,2014-05-21,KXIP,MI,MI,CSK,normal,0,MI,0,7,LMP Simmons,"Punjab Cricket Association Stadium, Mohali"
+506,2014,CR Brathwaite,2014-05-22,KKR,RCB,RCB,CSK,normal,0,KKR,30,0,RV Uthappa,Eden Gardens
+507,2014,CR Brathwaite,2014-05-22,CSK,SRH,SRH,CSK,normal,0,SRH,0,6,DA Warner,JSCA International Stadium Complex
+508,2014,CR Brathwaite,2014-05-23,MI,DD,DD,CSK,normal,0,MI,15,0,MEK Hussey,Wankhede Stadium
+509,2014,CR Brathwaite,2014-05-23,KXIP,RR,RR,CSK,normal,0,KXIP,16,0,SE Marsh,"Punjab Cricket Association Stadium, Mohali"
+510,2014,CR Brathwaite,2014-05-24,RCB,CSK,CSK,CSK,normal,0,CSK,0,8,MS Dhoni,M Chinnaswamy Stadium
+511,2014,CR Brathwaite,2014-05-24,SRH,KKR,KKR,CSK,normal,0,KKR,0,4,YK Pathan,Eden Gardens
+512,2014,CR Brathwaite,2014-05-25,DD,KXIP,KXIP,CSK,normal,0,KXIP,0,7,M Vohra,"Punjab Cricket Association Stadium, Mohali"
+513,2014,CR Brathwaite,2014-05-25,RR,MI,MI,CSK,normal,0,MI,0,5,CJ Anderson,Wankhede Stadium
+514,2014,CR Brathwaite,2014-05-27,KKR,KXIP,KXIP,CSK,normal,0,KKR,28,0,UT Yadav,Eden Gardens
+515,2014,CR Brathwaite,2014-05-28,MI,CSK,CSK,CSK,normal,0,CSK,0,7,SK Raina,Brabourne Stadium
+516,2014,CR Brathwaite,2014-05-30,KXIP,CSK,CSK,CSK,normal,0,KXIP,24,0,V Sehwag,Wankhede Stadium
+517,2014,CR Brathwaite,2014-06-01,KXIP,KKR,KKR,CSK,normal,0,KKR,0,3,MK Pandey,M Chinnaswamy Stadium
+518,2015,CR Brathwaite,2015-04-08,MI,KKR,KKR,CSK,normal,0,KKR,0,7,M Morkel,Eden Gardens
+519,2015,CR Brathwaite,2015-04-09,CSK,DD,DD,CSK,normal,0,CSK,1,0,A Nehra,"MA Chidambaram Stadium, Chepauk"
+520,2015,CR Brathwaite,2015-04-10,RR,KXIP,KXIP,CSK,normal,0,RR,26,0,JP Faulkner,Maharashtra Cricket Association Stadium
+521,2015,CR Brathwaite,2015-04-11,CSK,SRH,CSK,CSK,normal,0,CSK,45,0,BB McCullum,"MA Chidambaram Stadium, Chepauk"
+522,2015,CR Brathwaite,2015-04-11,KKR,RCB,RCB,CSK,normal,0,RCB,0,3,CH Gayle,Eden Gardens
+523,2015,CR Brathwaite,2015-04-12,DD,RR,RR,CSK,normal,0,RR,0,3,DJ Hooda,Feroz Shah Kotla
+524,2015,CR Brathwaite,2015-04-12,KXIP,MI,MI,CSK,normal,0,KXIP,18,0,GJ Bailey,Wankhede Stadium
+525,2015,CR Brathwaite,2015-04-13,RCB,SRH,SRH,CSK,normal,0,SRH,0,8,DA Warner,M Chinnaswamy Stadium
+526,2015,CR Brathwaite,2015-04-14,MI,RR,MI,CSK,normal,0,RR,0,7,SPD Smith,"Sardar Patel Stadium, Motera"
+527,2015,CR Brathwaite,2015-04-30,CSK,KKR,KKR,CSK,normal,0,KKR,0,7,AD Russell,Eden Gardens
+528,2015,CR Brathwaite,2015-04-15,KXIP,DD,KXIP,CSK,normal,0,DD,0,5,MA Agarwal,Maharashtra Cricket Association Stadium
+529,2015,CR Brathwaite,2015-04-16,SRH,RR,RR,CSK,normal,0,RR,0,6,AM Rahane,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+530,2015,CR Brathwaite,2015-04-17,MI,CSK,MI,CSK,normal,0,CSK,0,6,A Nehra,Wankhede Stadium
+531,2015,CR Brathwaite,2015-04-18,DD,SRH,DD,CSK,normal,0,DD,4,0,JP Duminy,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+532,2015,CR Brathwaite,2015-04-18,KXIP,KKR,KKR,CSK,normal,0,KKR,0,4,AD Russell,Maharashtra Cricket Association Stadium
+533,2015,CR Brathwaite,2015-04-19,CSK,RR,CSK,CSK,normal,0,RR,0,8,AM Rahane,"Sardar Patel Stadium, Motera"
+534,2015,CR Brathwaite,2015-04-19,MI,RCB,RCB,CSK,normal,0,MI,18,0,Harbhajan Singh,M Chinnaswamy Stadium
+535,2015,CR Brathwaite,2015-04-20,DD,KKR,KKR,CSK,normal,0,KKR,0,6,UT Yadav,Feroz Shah Kotla
+536,2015,CR Brathwaite,2015-04-21,RR,KXIP,KXIP,CSK,tie,0,KXIP,0,0,SE Marsh,"Sardar Patel Stadium, Motera"
+537,2015,CR Brathwaite,2015-04-22,SRH,KKR,KKR,CSK,normal,1,SRH,16,0,DA Warner,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+538,2015,CR Brathwaite,2015-04-22,CSK,RCB,RCB,CSK,normal,0,CSK,27,0,SK Raina,M Chinnaswamy Stadium
+539,2015,CR Brathwaite,2015-04-23,DD,MI,MI,CSK,normal,0,DD,37,0,SS Iyer,Feroz Shah Kotla
+540,2015,CR Brathwaite,2015-04-24,RR,RCB,RCB,CSK,normal,0,RCB,0,9,MA Starc,"Sardar Patel Stadium, Motera"
+541,2015,CR Brathwaite,2015-04-25,MI,SRH,MI,CSK,normal,0,MI,20,0,SL Malinga,Wankhede Stadium
+542,2015,CR Brathwaite,2015-04-25,CSK,KXIP,CSK,CSK,normal,0,CSK,97,0,BB McCullum,"MA Chidambaram Stadium, Chepauk"
+543,2015,CR Brathwaite,2015-04-26,DD,RCB,RCB,CSK,normal,0,RCB,0,10,VR Aaron,Feroz Shah Kotla
+544,2015,CR Brathwaite,2015-04-27,SRH,KXIP,KXIP,CSK,normal,0,SRH,20,0,TA Boult,"Punjab Cricket Association Stadium, Mohali"
+545,2015,CR Brathwaite,2015-05-07,KKR,DD,KKR,CSK,normal,0,KKR,13,0,PP Chawla,Eden Gardens
+546,2015,CR Brathwaite,2015-04-29,RCB,RR,RR,CSK,no result,0,KKR,0,0,,M Chinnaswamy Stadium
+547,2015,CR Brathwaite,2015-04-28,CSK,KKR,KKR,CSK,normal,0,CSK,2,0,DJ Bravo,"MA Chidambaram Stadium, Chepauk"
+548,2015,CR Brathwaite,2015-05-01,KXIP,DD,DD,CSK,normal,0,DD,0,9,NM Coulter-Nile,Feroz Shah Kotla
+549,2015,CR Brathwaite,2015-05-01,MI,RR,RR,CSK,normal,0,MI,8,0,AT Rayudu,Wankhede Stadium
+550,2015,CR Brathwaite,2015-05-02,KKR,RCB,RCB,CSK,normal,0,RCB,0,7,Mandeep Singh,M Chinnaswamy Stadium
+551,2015,CR Brathwaite,2015-05-02,SRH,CSK,CSK,CSK,normal,0,SRH,22,0,DA Warner,"Rajiv Gandhi International Stadium, Uppal"
+552,2015,CR Brathwaite,2015-05-03,MI,KXIP,MI,CSK,normal,0,MI,23,0,LMP Simmons,"Punjab Cricket Association Stadium, Mohali"
+553,2015,CR Brathwaite,2015-05-03,RR,DD,DD,CSK,normal,0,RR,14,0,AM Rahane,Brabourne Stadium
+554,2015,CR Brathwaite,2015-05-04,CSK,RCB,CSK,CSK,normal,0,CSK,24,0,SK Raina,"MA Chidambaram Stadium, Chepauk"
+555,2015,CR Brathwaite,2015-05-04,KKR,SRH,SRH,CSK,normal,0,KKR,35,0,UT Yadav,Eden Gardens
+556,2015,CR Brathwaite,2015-05-05,DD,MI,DD,CSK,normal,0,MI,0,5,Harbhajan Singh,Wankhede Stadium
+557,2015,CR Brathwaite,2015-05-06,RCB,KXIP,KXIP,CSK,normal,0,RCB,138,0,CH Gayle,M Chinnaswamy Stadium
+558,2015,CR Brathwaite,2015-05-07,SRH,RR,RR,CSK,normal,0,SRH,7,0,EJG Morgan,Brabourne Stadium
+559,2015,CR Brathwaite,2015-05-08,CSK,MI,CSK,CSK,normal,0,MI,0,6,HH Pandya,"MA Chidambaram Stadium, Chepauk"
+560,2015,CR Brathwaite,2015-05-09,KXIP,KKR,KXIP,CSK,normal,0,KKR,0,1,AD Russell,Eden Gardens
+561,2015,CR Brathwaite,2015-05-09,SRH,DD,SRH,CSK,normal,0,SRH,6,0,MC Henriques,Shaheed Veer Narayan Singh International Stadium
+562,2015,CR Brathwaite,2015-05-10,RCB,MI,RCB,CSK,normal,0,RCB,39,0,AB de Villiers,Wankhede Stadium
+563,2015,CR Brathwaite,2015-05-10,CSK,RR,CSK,CSK,normal,0,CSK,12,0,RA Jadeja,"MA Chidambaram Stadium, Chepauk"
+564,2015,CR Brathwaite,2015-05-11,SRH,KXIP,SRH,CSK,normal,0,SRH,5,0,DA Warner,"Rajiv Gandhi International Stadium, Uppal"
+565,2015,CR Brathwaite,2015-05-12,CSK,DD,CSK,CSK,normal,0,DD,0,6,Z Khan,Shaheed Veer Narayan Singh International Stadium
+566,2015,CR Brathwaite,2015-05-13,KXIP,RCB,RCB,CSK,normal,0,KXIP,22,0,AR Patel,"Punjab Cricket Association Stadium, Mohali"
+567,2015,CR Brathwaite,2015-05-14,MI,KKR,KKR,CSK,normal,0,MI,5,0,HH Pandya,Wankhede Stadium
+568,2015,CR Brathwaite,2015-05-15,SRH,RCB,SRH,CSK,normal,1,RCB,0,6,V Kohli,"Rajiv Gandhi International Stadium, Uppal"
+569,2015,CR Brathwaite,2015-05-16,KXIP,CSK,KXIP,CSK,normal,0,CSK,0,7,P Negi,"Punjab Cricket Association Stadium, Mohali"
+570,2015,CR Brathwaite,2015-05-16,RR,KKR,RR,CSK,normal,0,RR,9,0,SR Watson,Brabourne Stadium
+571,2015,CR Brathwaite,2015-05-17,DD,RCB,RCB,CSK,no result,0,RR,0,0,,M Chinnaswamy Stadium
+572,2015,CR Brathwaite,2015-05-17,SRH,MI,SRH,CSK,normal,0,MI,0,9,MJ McClenaghan,"Rajiv Gandhi International Stadium, Uppal"
+573,2015,CR Brathwaite,2015-05-19,MI,CSK,MI,CSK,normal,0,MI,25,0,KA Pollard,Wankhede Stadium
+574,2015,CR Brathwaite,2015-05-20,RCB,RR,RCB,CSK,normal,0,RCB,71,0,AB de Villiers,Maharashtra Cricket Association Stadium
+575,2015,CR Brathwaite,2015-05-22,RCB,CSK,CSK,CSK,normal,0,CSK,0,3,A Nehra,JSCA International Stadium Complex
+576,2015,CR Brathwaite,2015-05-24,MI,CSK,CSK,CSK,normal,0,MI,41,0,RG Sharma,Eden Gardens
+577,2016,CR Brathwaite,2016-04-09,MI,Pune,MI,CSK,normal,0,Pune,0,9,AM Rahane,Wankhede Stadium
+578,2016,CR Brathwaite,2016-04-10,DD,KKR,KKR,CSK,normal,0,KKR,0,9,AD Russell,Eden Gardens
+579,2016,CR Brathwaite,2016-04-11,KXIP,GL,GL,CSK,normal,0,GL,0,5,AJ Finch,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+580,2016,CR Brathwaite,2016-04-12,RCB,SRH,SRH,CSK,normal,0,RCB,45,0,AB de Villiers,M Chinnaswamy Stadium
+581,2016,CR Brathwaite,2016-04-13,KKR,MI,MI,CSK,normal,0,MI,0,6,RG Sharma,Eden Gardens
+582,2016,CR Brathwaite,2016-04-14,Pune,GL,Pune,CSK,normal,0,GL,0,7,AJ Finch,Saurashtra Cricket Association Stadium
+583,2016,CR Brathwaite,2016-04-15,KXIP,DD,DD,CSK,normal,0,DD,0,8,A Mishra,Feroz Shah Kotla
+584,2016,CR Brathwaite,2016-04-16,SRH,KKR,SRH,CSK,normal,0,KKR,0,8,G Gambhir,"Rajiv Gandhi International Stadium, Uppal"
+585,2016,CR Brathwaite,2016-04-16,MI,GL,GL,CSK,normal,0,GL,0,3,AJ Finch,Wankhede Stadium
+586,2016,CR Brathwaite,2016-04-17,Pune,KXIP,Pune,CSK,normal,0,KXIP,0,6,M Vohra,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+587,2016,CR Brathwaite,2016-04-17,RCB,DD,DD,CSK,normal,0,DD,0,7,Q de Kock,M Chinnaswamy Stadium
+588,2016,CR Brathwaite,2016-04-18,MI,SRH,SRH,CSK,normal,0,SRH,0,7,DA Warner,"Rajiv Gandhi International Stadium, Uppal"
+589,2016,CR Brathwaite,2016-04-19,KXIP,KKR,KKR,CSK,normal,0,KKR,0,6,RV Uthappa,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+590,2016,CR Brathwaite,2016-04-20,RCB,MI,MI,CSK,normal,0,MI,0,6,RG Sharma,Wankhede Stadium
+591,2016,CR Brathwaite,2016-04-21,GL,SRH,SRH,CSK,normal,0,SRH,0,10,B Kumar,Saurashtra Cricket Association Stadium
+592,2016,CR Brathwaite,2016-04-22,RCB,Pune,Pune,CSK,normal,0,RCB,13,0,AB de Villiers,Maharashtra Cricket Association Stadium
+593,2016,CR Brathwaite,2016-04-23,DD,MI,MI,CSK,normal,0,DD,10,0,SV Samson,Feroz Shah Kotla
+594,2016,CR Brathwaite,2016-04-23,KXIP,SRH,SRH,CSK,normal,0,SRH,0,5,Mustafizur Rahman,"Rajiv Gandhi International Stadium, Uppal"
+595,2016,CR Brathwaite,2016-04-24,RCB,GL,RCB,CSK,normal,0,GL,0,6,V Kohli,Saurashtra Cricket Association Stadium
+596,2016,CR Brathwaite,2016-04-24,Pune,KKR,KKR,CSK,normal,0,KKR,0,2,SA Yadav,Maharashtra Cricket Association Stadium
+597,2016,CR Brathwaite,2016-04-25,MI,KXIP,KXIP,CSK,normal,0,MI,25,0,PA Patel,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+598,2016,CR Brathwaite,2016-04-26,SRH,Pune,Pune,CSK,normal,1,Pune,34,0,AB Dinda,"Rajiv Gandhi International Stadium, Uppal"
+599,2016,CR Brathwaite,2016-04-27,GL,DD,DD,CSK,normal,0,GL,1,0,CH Morris,Feroz Shah Kotla
+600,2016,CR Brathwaite,2016-04-28,KKR,MI,MI,CSK,normal,0,MI,0,6,RG Sharma,Wankhede Stadium
+601,2016,CR Brathwaite,2016-04-29,Pune,GL,GL,CSK,normal,0,GL,0,3,DR Smith,Maharashtra Cricket Association Stadium
+602,2016,CR Brathwaite,2016-04-30,DD,KKR,KKR,CSK,normal,0,DD,27,0,CR Brathwaite,Feroz Shah Kotla
+603,2016,CR Brathwaite,2016-04-30,SRH,RCB,RCB,CSK,normal,0,SRH,15,0,DA Warner,"Rajiv Gandhi International Stadium, Uppal"
+604,2016,CR Brathwaite,2016-05-01,KXIP,GL,GL,CSK,normal,0,KXIP,23,0,AR Patel,Saurashtra Cricket Association Stadium
+605,2016,CR Brathwaite,2016-05-01,Pune,MI,MI,CSK,normal,0,MI,0,8,RG Sharma,Maharashtra Cricket Association Stadium
+606,2016,CR Brathwaite,2016-05-02,RCB,KKR,KKR,CSK,normal,0,KKR,0,5,AD Russell,M Chinnaswamy Stadium
+607,2016,CR Brathwaite,2016-05-03,GL,DD,DD,CSK,normal,0,DD,0,8,RR Pant,Saurashtra Cricket Association Stadium
+608,2016,CR Brathwaite,2016-05-04,KKR,KXIP,KXIP,CSK,normal,0,KKR,7,0,AD Russell,Eden Gardens
+609,2016,CR Brathwaite,2016-05-05,DD,Pune,Pune,CSK,normal,0,Pune,0,7,AM Rahane,Feroz Shah Kotla
+610,2016,CR Brathwaite,2016-05-06,GL,SRH,SRH,CSK,normal,0,SRH,0,5,B Kumar,"Rajiv Gandhi International Stadium, Uppal"
+611,2016,CR Brathwaite,2016-05-07,Pune,RCB,RCB,CSK,normal,0,RCB,0,7,V Kohli,M Chinnaswamy Stadium
+612,2016,CR Brathwaite,2016-05-07,KXIP,DD,DD,CSK,normal,0,KXIP,9,0,MP Stoinis,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+613,2016,CR Brathwaite,2016-05-08,SRH,MI,MI,CSK,normal,0,SRH,85,0,A Nehra,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+614,2016,CR Brathwaite,2016-05-08,KKR,GL,GL,CSK,normal,0,GL,0,5,P Kumar,Eden Gardens
+615,2016,CR Brathwaite,2016-05-09,RCB,KXIP,KXIP,CSK,normal,0,RCB,1,0,SR Watson,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+616,2016,CR Brathwaite,2016-05-10,SRH,Pune,SRH,CSK,normal,0,SRH,4,0,A Zampa,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+617,2016,CR Brathwaite,2016-05-11,RCB,MI,MI,CSK,normal,0,MI,0,6,KH Pandya,M Chinnaswamy Stadium
+618,2016,CR Brathwaite,2016-05-12,SRH,DD,DD,CSK,normal,0,DD,0,7,CH Morris,"Rajiv Gandhi International Stadium, Uppal"
+619,2016,CR Brathwaite,2016-05-13,MI,KXIP,MI,CSK,normal,0,KXIP,0,7,MP Stoinis,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+620,2016,CR Brathwaite,2016-05-14,RCB,GL,GL,CSK,normal,0,RCB,144,0,AB de Villiers,M Chinnaswamy Stadium
+621,2016,CR Brathwaite,2016-05-14,Pune,KKR,Pune,CSK,normal,1,KKR,0,8,YK Pathan,Eden Gardens
+622,2016,CR Brathwaite,2016-05-15,KXIP,SRH,KXIP,CSK,normal,0,SRH,0,7,HM Amla,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+623,2016,CR Brathwaite,2016-05-15,MI,DD,DD,CSK,normal,0,MI,80,0,KH Pandya,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+624,2016,CR Brathwaite,2016-05-16,KKR,RCB,RCB,CSK,normal,0,RCB,0,9,V Kohli,Eden Gardens
+625,2016,CR Brathwaite,2016-05-17,DD,Pune,Pune,CSK,normal,1,Pune,19,0,AB Dinda,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+626,2016,CR Brathwaite,2016-05-18,RCB,KXIP,KXIP,CSK,normal,1,RCB,82,0,V Kohli,M Chinnaswamy Stadium
+627,2016,CR Brathwaite,2016-05-19,KKR,GL,GL,CSK,normal,0,GL,0,6,DR Smith,Green Park
+628,2016,CR Brathwaite,2016-05-20,SRH,DD,DD,CSK,normal,0,DD,0,6,KK Nair,Shaheed Veer Narayan Singh International Stadium
+629,2016,CR Brathwaite,2016-05-21,KXIP,Pune,KXIP,CSK,normal,0,Pune,0,4,MS Dhoni,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+630,2016,CR Brathwaite,2016-05-21,MI,GL,GL,CSK,normal,0,GL,0,6,SK Raina,Green Park
+631,2016,CR Brathwaite,2016-05-22,KKR,SRH,SRH,CSK,normal,0,KKR,22,0,YK Pathan,Eden Gardens
+632,2016,CR Brathwaite,2016-05-22,DD,RCB,RCB,CSK,normal,0,RCB,0,6,V Kohli,Shaheed Veer Narayan Singh International Stadium
+633,2016,CR Brathwaite,2016-05-24,GL,RCB,RCB,CSK,normal,0,RCB,0,4,AB de Villiers,M Chinnaswamy Stadium
+634,2016,CR Brathwaite,2016-05-25,SRH,KKR,KKR,CSK,normal,0,SRH,22,0,MC Henriques,Feroz Shah Kotla
+635,2016,CR Brathwaite,2016-05-27,GL,SRH,SRH,CSK,normal,0,SRH,0,4,DA Warner,Feroz Shah Kotla
+636,2016,CR Brathwaite,2016-05-29,SRH,RCB,SRH,CSK,normal,0,SRH,8,0,BCJ Cutting,M Chinnaswamy Stadium
+7894,2018,CR Brathwaite,07/04/18,MI,CSK,CSK,CSK,normal,0,CSK,0,1,DJ Bravo,Wankhede Stadium
+7895,2018,CR Brathwaite,08/04/18,DD,KXIP,KXIP,CSK,normal,0,KXIP,0,6,KL Rahul,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+7896,2018,CR Brathwaite,08/04/18,RCB,KKR,KKR,CSK,normal,0,KKR,0,4,SP Narine,Eden Gardens
+7897,2018,CR Brathwaite,09/04/18,RR,SRH,SRH,CSK,normal,0,SRH,0,9,S Dhawan,"Rajiv Gandhi International Stadium, Uppal"
+7898,2018,CR Brathwaite,10/04/18,KKR,CSK,CSK,CSK,normal,0,CSK,0,5,SW Billings,"MA Chidambaram Stadium, Chepauk"
+7899,2018,CR Brathwaite,11/04/18,RR,DD,DD,CSK,normal,1,RR,10,0,SV Samson,Sawai Mansingh Stadium
+7900,2018,CR Brathwaite,12/04/18,MI,SRH,SRH,CSK,normal,0,SRH,0,1,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal"
+7901,2018,CR Brathwaite,13/04/18,KXIP,RCB,RCB,CSK,normal,0,RCB,0,4,UT Yadav,M Chinnaswamy Stadium
+7902,2018,CR Brathwaite,14/04/18,MI,DD,DD,CSK,normal,0,DD,0,7,JJ Roy,Wankhede Stadium
+7903,2018,CR Brathwaite,14/04/18,KKR,SRH,SRH,CSK,normal,0,SRH,0,5,B Stanlake,Eden Gardens
+7904,2018,CR Brathwaite,15/04/18,RR,RCB,RCB,CSK,normal,0,RR,19,0,SV Samson,M Chinnaswamy Stadium
+7905,2018,CR Brathwaite,15/04/18,KXIP,CSK,CSK,CSK,normal,0,KXIP,4,0,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+7906,2018,CR Brathwaite,16/04/18,KKR,DD,DD,CSK,normal,0,KKR,71,0,N Rana,Eden Gardens
+7907,2018,CR Brathwaite,17/04/18,MI,RCB,RCB,CSK,normal,0,MI,46,0,RG Sharma,Wankhede Stadium
+7908,2018,CR Brathwaite,18/04/18,RR,KKR,KKR,CSK,normal,0,KKR,0,7,N Rana,Sawai Mansingh Stadium
+7909,2018,CR Brathwaite,19/04/18,KXIP,SRH,KXIP,CSK,normal,0,KXIP,15,0,CH Gayle,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+7910,2018,CR Brathwaite,20/04/18,CSK,RR,RR,CSK,normal,0,CSK,64,0,SR Watson,Maharashtra Cricket Association Stadium
+7911,2018,CR Brathwaite,21/04/18,KKR,KXIP,KXIP,CSK,normal,1,KXIP,0,9,KL Rahul,Eden Gardens
+7912,2018,CR Brathwaite,21/04/18,DD,RCB,RCB,CSK,normal,0,RCB,0,6,AB de Villiers,M Chinnaswamy Stadium
+7913,2018,CR Brathwaite,22/04/18,CSK,SRH,SRH,CSK,normal,0,CSK,4,0,AT Rayudu,"Rajiv Gandhi International Stadium, Uppal"
+7914,2018,CR Brathwaite,22/04/18,MI,RR,MI,CSK,normal,0,RR,0,3,J Archer,Sawai Mansingh Stadium
+7915,2018,CR Brathwaite,23/04/18,KXIP,DD,DD,CSK,normal,0,KXIP,4,0,AS Rajpoot,Feroz Shah Kotla
+7916,2018,CR Brathwaite,24/04/18,SRH,MI,MI,CSK,normal,0,SRH,31,0,Rashid Khan,Wankhede Stadium
+7917,2018,CR Brathwaite,25/04/18,RCB,CSK,CSK,CSK,normal,0,CSK,0,5,MS Dhoni,M Chinnaswamy Stadium
+7918,2018,CR Brathwaite,26/04/18,SRH,KXIP,KXIP,CSK,normal,0,SRH,13,0,AS Rajpoot,"Rajiv Gandhi International Stadium, Uppal"
+7919,2018,CR Brathwaite,27/04/18,DD,KKR,KKR,CSK,normal,0,DD,55,0,SS Iyer,Feroz Shah Kotla
+7920,2018,CR Brathwaite,28/04/18,CSK,MI,MI,CSK,normal,0,MI,0,8,RG Sharma,Maharashtra Cricket Association Stadium
+7921,2018,CR Brathwaite,29/04/18,SRH,RR,SRH,CSK,normal,0,SRH,11,0,KS Williamson,Sawai Mansingh Stadium
+7922,2018,CR Brathwaite,29/04/18,RCB,KKR,KKR,CSK,normal,0,KKR,0,6,CA Lynn,M Chinnaswamy Stadium
+7923,2018,CR Brathwaite,30/04/18,CSK,DD,DD,CSK,normal,0,CSK,13,0,SR Watson,Maharashtra Cricket Association Stadium
+7924,2018,CR Brathwaite,01/05/18,RCB,MI,MI,CSK,normal,0,RCB,14,0,TG Southee,M Chinnaswamy Stadium
+7925,2018,CR Brathwaite,02/05/18,DD,RR,RR,CSK,normal,1,DD,4,0,RR Pant,Feroz Shah Kotla
+7926,2018,CR Brathwaite,03/05/18,CSK,KKR,KKR,CSK,normal,0,KKR,0,6,SP Narine,Eden Gardens
+7927,2018,CR Brathwaite,04/05/18,KXIP,MI,MI,CSK,normal,0,MI,0,6,AS Yadav,Holkar Cricket Stadium
+7928,2018,CR Brathwaite,05/05/18,RCB,CSK,CSK,CSK,normal,0,CSK,0,6,RA Jadeja,Maharashtra Cricket Association Stadium
+7929,2018,CR Brathwaite,05/05/18,DD,SRH,DD,CSK,normal,0,SRH,0,7,Rashid Khan,"Rajiv Gandhi International Stadium, Uppal"
+7930,2018,CR Brathwaite,06/05/18,MI,KKR,KKR,CSK,normal,0,MI,13,0,HH Pandya,Wankhede Stadium
+7931,2018,CR Brathwaite,06/05/18,RR,KXIP,KXIP,CSK,normal,0,KXIP,0,6,M Ur Rahman,Holkar Cricket Stadium
+7932,2018,CR Brathwaite,07/05/18,SRH,RCB,RCB,CSK,normal,0,SRH,5,0,KS Williamson,"Rajiv Gandhi International Stadium, Uppal"
+7933,2018,CR Brathwaite,08/05/18,RR,KXIP,RR,CSK,normal,0,RR,15,0,JC Buttler,Sawai Mansingh Stadium
+7934,2018,CR Brathwaite,09/05/18,MI,KKR,KKR,CSK,normal,0,MI,102,0,Ishan Kishan,Eden Gardens
+7935,2018,CR Brathwaite,10/05/18,DD,SRH,DD,CSK,normal,0,SRH,0,9,S Dhawan,Feroz Shah Kotla
+7936,2018,CR Brathwaite,11/05/18,CSK,RR,CSK,CSK,normal,0,RR,0,4,JC Buttler,Sawai Mansingh Stadium
+7937,2018,CR Brathwaite,12/05/18,KKR,KXIP,KXIP,CSK,normal,0,KKR,31,0,SP Narine,Holkar Cricket Stadium
+7938,2018,CR Brathwaite,12/05/18,DD,RCB,RCB,CSK,normal,0,RCB,0,5,AB de Villiers,Feroz Shah Kotla
+7939,2018,CR Brathwaite,13/05/18,SRH,CSK,CSK,CSK,normal,0,CSK,0,8,AT Rayudu,Maharashtra Cricket Association Stadium
+7940,2018,CR Brathwaite,13/05/18,MI,RR,RR,CSK,normal,0,RR,0,7,JC Buttler,Wankhede Stadium
+7941,2018,CR Brathwaite,14/05/18,KXIP,RCB,RCB,CSK,normal,0,RCB,0,10,UT Yadav,Holkar Cricket Stadium
+7942,2018,CR Brathwaite,15/05/18,RR,KKR,KKR,CSK,normal,0,KKR,0,6,Kuldeep Yadav,Eden Gardens
+7943,2018,CR Brathwaite,16/05/18,MI,KXIP,KXIP,CSK,normal,0,MI,3,0,JJ Bumrah,Wankhede Stadium
+7944,2018,CR Brathwaite,17/05/18,RCB,SRH,SRH,CSK,normal,0,RCB,14,0,AB de Villiers,M Chinnaswamy Stadium
+7945,2018,CR Brathwaite,18/05/18,DD,CSK,CSK,CSK,normal,0,DD,34,0,HV Patel,Feroz Shah Kotla
+7946,2018,CR Brathwaite,19/05/18,RR,RCB,RR,CSK,normal,0,RR,30,0,S Gopal,Sawai Mansingh Stadium
+7947,2018,CR Brathwaite,19/05/18,SRH,KKR,SRH,CSK,normal,0,KKR,0,5,CA Lynn,"Rajiv Gandhi International Stadium, Uppal"
+7948,2018,CR Brathwaite,20/05/18,DD,MI,DD,CSK,normal,0,DD,11,0,A Mishra,Feroz Shah Kotla
+7949,2018,CR Brathwaite,20/05/18,KXIP,CSK,CSK,CSK,normal,0,CSK,0,5,L Ngidi,Maharashtra Cricket Association Stadium
+7950,2018,CR Brathwaite,22/05/18,SRH,CSK,CSK,CSK,normal,0,CSK,0,2,F du Plessis,Wankhede Stadium
+7951,2018,CR Brathwaite,23/05/18,KKR,RR,RR,CSK,normal,0,KKR,25,0,AD Russell,Eden Gardens
+7952,2018,CR Brathwaite,25/05/18,SRH,KKR,KKR,CSK,normal,0,SRH,14,0,Rashid Khan,Eden Gardens
+7953,2018,CR Brathwaite,27/05/18,SRH,CSK,CSK,CSK,normal,0,CSK,0,8,SR Watson,Wankhede Stadium
